@@ -1,0 +1,2 @@
+# Power
+Relationship between power generation and country development across the world. The objective of the project is to identify if amount of power usage/generation has direct impact on a country's development. This is to be analyzed in conjunction with the different sources of energy, energy consumption per capita across the world as well as CO, emissions. This will also show the role played by energy in the world development indicator.
