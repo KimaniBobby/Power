@@ -1,0 +1,1680 @@
+﻿country,country_long,capacity_mw,primary_fuel,estimated_generation_gwh_2013,estimated_generation_gwh_2014,estimated_generation_gwh_2015,estimated_generation_gwh_2016,estimated_generation_gwh_2017
+AGO,Angola,22.8,Oil,,,,,64.92
+AGO,Angola,14.6,Hydro,60.76,50.79,49.87,80.7,48.53
+AGO,Angola,180,Hydro,573.81,732.53,709.84,604.31,678.19
+AGO,Angola,520,Hydro,1450.81,1919.52,1853.98,1538.35,1746.62
+AGO,Angola,132,Gas,,,,,0
+AGO,Angola,16.26,Oil,,,,,46.3
+AGO,Angola,20,Gas,,,,,0
+AGO,Angola,58,Oil,,,,,165.16
+AGO,Angola,18.5,Oil,,,,,52.68
+AGO,Angola,10,Oil,,,,,28.47
+AGO,Angola,40,Hydro,165.92,138.23,128.15,152.57,125.42
+AGO,Angola,11.68,Gas,,,,,0
+AGO,Angola,16,Hydro,79.25,66.06,67.94,82.2,66.01
+AGO,Angola,11.34,Oil,,,,,32.29
+BWA,Botswana,732,Coal,,,,,2931.89
+BWA,Botswana,14,Coal,,,,,56.07
+CHE,Switzerland,16.93,Hydro,72.57,84.72,78.91,77.77,72.95
+CHE,Switzerland,15.2,Hydro,58.66,87.26,64.85,62.47,67.11
+CHE,Switzerland,29.2,Hydro,79.41,87.15,87.26,84.55,103.37
+CHE,Switzerland,60,Hydro,154.02,170.66,170.66,166.8,195.64
+CHE,Switzerland,84.9,Hydro,228.66,243.97,243.97,238.51,279.31
+CHE,Switzerland,28.4,Hydro,73.33,81.21,81.21,79.38,93.03
+CHE,Switzerland,3.56,Hydro,11.94,15.22,13.47,13.28,14
+CHE,Switzerland,120,Hydro,271.51,318.49,327.5,298.52,376.31
+CHE,Switzerland,1.73,Hydro,5.74,5.29,6.91,6.34,7.39
+CHE,Switzerland,52,Hydro,156.72,226.26,163.96,160.05,171.28
+CHE,Switzerland,13,Hydro,36.19,43.61,43.3,40.57,49.38
+CHE,Switzerland,35,Hydro,87.23,116.55,105.32,107.14,109.81
+CHE,Switzerland,28.5,Hydro,88.53,115.79,92.42,97.88,97.74
+CHE,Switzerland,1.03,Hydro,2.41,2.67,2.67,2.61,3.08
+CHE,Switzerland,140,Hydro,342.15,366.83,331.27,343.24,390.82
+CHE,Switzerland,19.5,Hydro,88.46,90.35,96.82,96.18,99.08
+CHE,Switzerland,6.2,Hydro,27.47,28.07,30.13,29.93,30.85
+CHE,Switzerland,324,Hydro,562.83,711.65,617.75,599.57,781.68
+CHE,Switzerland,141,Hydro,306.46,372.02,330.36,322.62,387.87
+CHE,Switzerland,1285,Hydro,3818.03,5051.04,4235.75,4139.59,5060.17
+CHE,Switzerland,340,Hydro,727.59,898.43,762.72,768.46,966.88
+CHE,Switzerland,8.7,Hydro,25.08,29.93,29.84,28.02,33.91
+CHE,Switzerland,20,Hydro,78.28,83.52,79.18,78.13,86.83
+CHE,Switzerland,1.28,Hydro,3.01,3.3,3.3,3.21,3.8
+CHE,Switzerland,50,Hydro,129.74,148.31,119.22,127.65,143.49
+CHE,Switzerland,1.62,Hydro,5.45,5.27,5.62,5.51,6.4
+CHE,Switzerland,100,Hydro,283.84,298.57,259.51,285.22,267.59
+CHE,Switzerland,114,Hydro,324.56,339.03,339.03,331.73,386.49
+CHE,Switzerland,1.38,Hydro,3.05,3.36,3.36,3.27,3.91
+CHE,Switzerland,2,Hydro,5.17,5.73,5.73,5.6,6.52
+CHE,Switzerland,8.7,Hydro,20.48,22.78,22.78,22.21,26.22
+CHE,Switzerland,54,Hydro,206.62,212.08,206.63,187.2,185.89
+CHE,Switzerland,260.5,Hydro,569.66,613.19,613.19,596.07,742.09
+CHE,Switzerland,15,Solar,20.96,22.96,22.81,22.07,22.53
+CHE,Switzerland,66,Hydro,205.32,255.66,208.11,203.15,217.4
+CHE,Switzerland,18.24,Hydro,57.49,62.06,58.26,62.52,73.14
+CHE,Switzerland,2.94,Hydro,12.08,12.92,11.57,12.73,13.32
+CHE,Switzerland,46.9,Hydro,116.51,167.82,211.79,144.14,214.78
+CHE,Switzerland,135,Hydro,326.61,343.75,343.75,334.95,402.57
+CHE,Switzerland,1.45,Hydro,4.71,4.58,4.97,4.6,5.59
+CHE,Switzerland,11.5,Hydro,44.93,52.11,44.09,45.48,45.8
+CHE,Switzerland,64,Hydro,175.5,203.71,186.02,182.93,230.31
+CHE,Switzerland,65,Hydro,184.49,196.23,195.35,191.2,212.63
+CHE,Switzerland,306,Hydro,741.16,849.47,697.67,668.17,672.72
+CHE,Switzerland,140,Hydro,397.54,543.74,400.71,393.74,410.3
+CHE,Switzerland,10.3,Hydro,23.41,26.14,26.14,25.46,30.21
+CHE,Switzerland,11.33,Hydro,27.26,29.8,29.8,29.06,34.28
+CHE,Switzerland,1.9,Hydro,7.03,8.74,7.53,7.45,7.83
+CHE,Switzerland,8.94,Hydro,29.08,31.7,28.69,29.99,33.41
+CHE,Switzerland,46,Hydro,121.61,131.92,131.92,128.96,151.07
+CHE,Switzerland,132.5,Hydro,303.02,325.16,325.16,316.49,382.89
+CHE,Switzerland,32.5,Hydro,83.42,92.44,92.44,90.35,105.97
+CHE,Switzerland,35.3,Hydro,90.61,100.41,100.41,98.13,115.1
+CHE,Switzerland,348,Hydro,780.38,843.11,843.11,820.31,1015.32
+CHE,Switzerland,37.5,Hydro,96.8,117.13,96.68,98.44,121.84
+CHE,Switzerland,6.6,Hydro,19.03,22.71,22.64,21.07,25.73
+CHE,Switzerland,1.2,Hydro,2.82,3.09,3.09,3.01,3.56
+CHE,Switzerland,12.7,Hydro,28.69,32.04,32.04,31.22,37.07
+CHE,Switzerland,100,Hydro,268.05,286.08,286.08,279.65,327.71
+CHE,Switzerland,55,Hydro,141.18,156.44,156.44,152.9,179.34
+CHE,Switzerland,8.8,Hydro,21.88,23.85,23.85,23.28,27.33
+CHE,Switzerland,2,Hydro,6.72,7.12,7.99,7.34,8.61
+CHE,Switzerland,49.5,Hydro,112.41,150.06,143.99,158.89,170.81
+CHE,Switzerland,62,Hydro,159.15,176.35,176.35,172.36,202.16
+CHE,Switzerland,12,Hydro,37.25,46.82,39.86,38.97,46.53
+CHE,Switzerland,8.3,Hydro,31.82,47.44,35.2,33.89,36.43
+CHE,Switzerland,19,Hydro,45.35,49.61,49.61,48.37,57.12
+CHE,Switzerland,1.03,Hydro,2.54,2.76,2.76,2.7,3.17
+CHE,Switzerland,1.5,Hydro,3.52,3.85,3.85,3.75,4.45
+CHE,Switzerland,760,Nuclear,,,,,5107.44
+CHE,Switzerland,1035,Nuclear,,,,,6955.52
+CHE,Switzerland,1245,Nuclear,,,,,8366.79
+CHE,Switzerland,390,Nuclear,,,,,2620.92
+CHE,Switzerland,1.18,Hydro,3.24,4.14,3.54,3.45,4.17
+CHE,Switzerland,42.6,Hydro,123.78,152.43,133.24,147.55,138.71
+CHE,Switzerland,1.3,Hydro,3.59,4.43,3.91,3.91,4.93
+CHE,Switzerland,28,Hydro,70.74,78.14,78.14,76.33,89.79
+CHE,Switzerland,5.6,Hydro,11.23,12.71,12.71,12.34,14.92
+CHE,Switzerland,24,Hydro,78.67,108.84,86.03,81.37,86.29
+CHE,Switzerland,5.1,Hydro,13.76,16.83,16.79,16.49,19.13
+CHE,Switzerland,110,Hydro,295,376.46,341.16,346.9,355.28
+CHE,Switzerland,90,Hydro,277.52,375.92,296.4,278.86,297.36
+CHE,Switzerland,2.6,Hydro,9.81,12.56,10.55,10.1,10.6
+CHE,Switzerland,1.6,Hydro,4.42,4.78,4.78,4.68,5.42
+CHE,Switzerland,8.56,Hydro,20.15,22.41,22.41,21.85,25.79
+CHE,Switzerland,5,Hydro,17.56,22.25,18.91,18.67,19.68
+CHE,Switzerland,1,Hydro,3.53,3.92,4.46,4.38,4.87
+CHE,Switzerland,1000,Hydro,2453.38,3178.76,3031.52,2958.86,3976.42
+CHE,Switzerland,34.4,Hydro,89.04,108.93,107.55,105.06,123.27
+CHE,Switzerland,1.42,Hydro,4.18,5.14,4.75,4.61,5.23
+CHE,Switzerland,25,Hydro,63.16,69.77,69.77,68.15,80.17
+CHE,Switzerland,3.5,Hydro,11.28,13.08,13.49,13.39,15.13
+CHE,Switzerland,22,Hydro,62.06,70.76,64.35,60.16,74.7
+CHE,Switzerland,84,Hydro,243.36,268.87,244.7,238.71,291.77
+CHE,Switzerland,7.2,Hydro,16.83,18.73,18.73,18.26,21.58
+CHE,Switzerland,1.16,Hydro,3.72,4.33,3.93,4.09,4.1
+CHE,Switzerland,3.3,Hydro,6.76,7.63,7.63,7.41,8.94
+CHE,Switzerland,31,Hydro,78.32,86.51,86.51,84.51,99.42
+CHE,Switzerland,15.5,Hydro,34.94,39.04,39.04,38.03,45.17
+CHE,Switzerland,9.8,Hydro,29.89,34.2,33.31,32.64,35.6
+CHE,Switzerland,1.6,Hydro,4.52,4.56,5.92,5.83,6.73
+CHE,Switzerland,392,Hydro,1051.37,1383.4,1059.14,1029.17,1150.13
+CHE,Switzerland,5.2,Solar,7.38,7.55,7.6,7.4,7.5
+CHE,Switzerland,1.07,Hydro,4.04,4.33,4.27,4.26,4.98
+CHE,Switzerland,15,Hydro,57.89,86.12,64,61.65,66.23
+CHE,Switzerland,8.2,Hydro,19.3,21.47,21.47,20.93,24.71
+CHE,Switzerland,31.95,Hydro,91.85,98.28,90.96,98.02,116.74
+CHE,Switzerland,1.97,Hydro,7.19,7.63,7.65,8.29,9.41
+CHE,Switzerland,8.7,Hydro,28.17,30.35,28.6,30.69,35.7
+CHE,Switzerland,102,Hydro,276.55,293.6,293.6,287.04,336.06
+CHE,Switzerland,54,Hydro,149.45,162.62,148.26,150.58,167.84
+CHE,Switzerland,1,Hydro,4.27,4.58,4.06,3.99,4.21
+CHE,Switzerland,1.15,Hydro,4.82,5.18,4.58,4.5,4.76
+CHE,Switzerland,6.48,Hydro,17.48,21.39,21.34,20.95,24.31
+CHE,Switzerland,72.9,Hydro,183.55,220.87,195.91,191.98,223.76
+CHE,Switzerland,4.5,Hydro,9.56,10.75,10.75,10.45,12.53
+CHE,Switzerland,10.6,Hydro,39.33,54.27,40.81,40.03,42.17
+CHE,Switzerland,3.1,Hydro,10.16,10.68,10.08,10.56,11.84
+CHE,Switzerland,300,Hydro,700.73,801.24,721.07,742.97,890.44
+CHE,Switzerland,5,Hydro,14.28,17.69,15.8,15.34,19.09
+CHE,Switzerland,26,Hydro,67.13,74.35,74.35,72.67,85.17
+CHE,Switzerland,39.5,Hydro,103.85,125.43,114.19,112.28,141.85
+CHE,Switzerland,19.06,Hydro,42.97,48.01,48.01,46.76,55.54
+CHE,Switzerland,66.24,Hydro,173.87,227.52,202.18,187.23,224.13
+CHE,Switzerland,258,Hydro,691.97,910.5,697.09,677.36,756.97
+CHE,Switzerland,4.5,Hydro,15.03,18.48,16.17,16.45,18.4
+CHE,Switzerland,44,Hydro,112.95,125.15,125.15,122.32,143.47
+CHE,Switzerland,90,Hydro,242.4,258.62,258.62,252.84,296.09
+CHE,Switzerland,9.3,Hydro,23.12,25.2,25.2,24.6,28.88
+CHE,Switzerland,2.9,Hydro,7.51,8.28,8.28,8.09,9.43
+CHE,Switzerland,20.8,Hydro,57.71,70.51,54.66,58.56,68.61
+CHE,Switzerland,28.9,Hydro,110.89,102.4,100.77,94.24,96.33
+CHE,Switzerland,6.1,Hydro,19.42,20.51,19.17,19.05,23.58
+CHE,Switzerland,150,Hydro,293.31,367.45,367.45,357.63,432.8
+CHE,Switzerland,1.93,Hydro,4.99,5.53,5.53,5.4,6.29
+CHE,Switzerland,8.7,Hydro,40.32,40.17,46.42,35.49,38.92
+CHE,Switzerland,51.52,Hydro,129.79,176.96,156.82,145.19,173.89
+CHE,Switzerland,83,Hydro,218.92,232.79,232.79,227.44,267.34
+CHE,Switzerland,18.66,Hydro,60.88,74.15,66.15,62.99,76.54
+CHE,Switzerland,185,Hydro,482.62,505.06,514.4,497.08,620.03
+CHE,Switzerland,1.27,Hydro,4.25,3.91,4.82,4.86,5.76
+CHE,Switzerland,14,Hydro,32.34,36.22,36.22,35.31,41.76
+CHE,Switzerland,5,Hydro,16.05,17.83,16.57,16.99,17.44
+CHE,Switzerland,4.3,Hydro,10.04,11,11,10.72,12.7
+CHE,Switzerland,1.22,Hydro,3.44,4.16,3.93,3.86,4.11
+CHE,Switzerland,10.61,Hydro,39.08,52.57,42.34,40.29,42.32
+CHE,Switzerland,4.25,Hydro,9.32,10.44,10.44,10.16,12.12
+CHE,Switzerland,4.6,Hydro,14.99,17.09,16.21,15.92,17.8
+CHE,Switzerland,2.9,Hydro,10.56,11.14,11.49,11.18,11.73
+CHE,Switzerland,69.5,Hydro,183.86,217.05,187.87,183.02,218.7
+CHE,Switzerland,1.8,Hydro,4.7,5.2,5.2,5.08,5.91
+CHE,Switzerland,1,Hydro,4.26,4.34,4.06,4.47,4.67
+CHE,Switzerland,23.9,Hydro,60.82,67.14,67.14,65.59,77.08
+CHE,Switzerland,54,Hydro,172.91,164.18,172.37,153.93,190.57
+CHE,Switzerland,12,Hydro,41.73,41.18,43.01,38.82,46.9
+CHE,Switzerland,1.2,Hydro,3.38,4.09,3.87,3.8,4.04
+CHE,Switzerland,119,Hydro,315.28,356.62,334.04,332.68,382.4
+CHE,Switzerland,102.8,Hydro,407.47,409.62,413.61,344.09,381.69
+CHE,Switzerland,92,Hydro,283.69,384.27,302.99,285.05,303.97
+CHE,Switzerland,50,Hydro,130.65,151.39,145.39,142.19,151.29
+CHE,Switzerland,20.4,Hydro,55.25,59.82,59.82,58.52,68.32
+CHE,Switzerland,25.35,Hydro,86.26,96.57,81.65,91.88,97.31
+CHE,Switzerland,2.1,Hydro,8.76,9.37,8.35,9.23,9.65
+CHE,Switzerland,1.59,Hydro,5.38,6.41,5.97,5.61,5.65
+CHE,Switzerland,6.6,Hydro,21.37,23.02,21.69,23.28,27.08
+CHE,Switzerland,12,Hydro,50.2,59.2,48.76,54.17,50.87
+CHE,Switzerland,74,Hydro,204.98,214.38,214.38,209.62,245.18
+CHE,Switzerland,22,Hydro,57.27,63.37,63.37,61.96,72.53
+COG,Congo,36,Gas,,,,,229.55
+COG,Congo,15,Hydro,48.66,50.53,49.4,56.99,53.98
+COG,Congo,120,Hydro,365.21,358.66,356.74,438.6,386.89
+COG,Congo,45.3,Oil,,,,,66.53
+COG,Congo,74,Hydro,247.62,244.06,247.89,247.41,247.46
+COG,Congo,25.6,Oil,,,,,37.6
+COG,Congo,300,Gas,,,,,1912.97
+COG,Congo,10,Hydro,50.2,48.3,50.2,48.97,48.84
+CZE,Czech Republic,1,Solar,1.26,1.34,1.32,1.27,1.22
+CZE,Czech Republic,1.5,Solar,1.88,2.06,2.06,2.03,1.99
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.33,1.28
+CZE,Czech Republic,4.5,Solar,6.16,6.58,6.59,6.29,6.19
+CZE,Czech Republic,1.1,Solar,1.37,1.45,1.41,1.39,1.38
+CZE,Czech Republic,3,Solar,4.18,4.34,4.32,4.28,4.17
+CZE,Czech Republic,2.7,Solar,4.04,3.83,3.81,3.77,3.74
+CZE,Czech Republic,3.3,Solar,4.37,4.8,4.8,4.59,4.59
+CZE,Czech Republic,1,Solar,1.22,1.36,1.36,1.28,1.28
+CZE,Czech Republic,1,Solar,1.28,1.35,1.36,1.28,1.27
+CZE,Czech Republic,3,Solar,4.24,4.36,4.36,4.15,4.02
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.34,1.33
+CZE,Czech Republic,4.1,Solar,5.59,5.91,5.97,5.8,5.72
+CZE,Czech Republic,1.5,Solar,1.93,2.06,2.05,1.97,1.97
+CZE,Czech Republic,2,Solar,3.06,2.81,2.75,2.74,2.66
+CZE,Czech Republic,1,Solar,1.29,1.35,1.33,1.27,1.26
+CZE,Czech Republic,1.5,Solar,1.89,2.06,2.04,1.99,1.97
+CZE,Czech Republic,2.2,Solar,3.15,3.11,3.1,3.09,3.06
+CZE,Czech Republic,1.2,Solar,1.53,1.65,1.62,1.62,1.61
+CZE,Czech Republic,3.3,Solar,4.53,4.73,4.75,4.83,4.81
+CZE,Czech Republic,1,Solar,1.4,1.33,1.33,1.26,1.22
+CZE,Czech Republic,72,Coal,,,,,325.4
+CZE,Czech Republic,21.2,Solar,31.4,31.86,32.27,32.51,32.42
+CZE,Czech Republic,1.3,Solar,1.65,1.72,1.74,1.69,1.67
+CZE,Czech Republic,1.9,Solar,2.6,2.5,2.41,2.38,2.31
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.29,1.28
+CZE,Czech Republic,1.9,Solar,2.46,2.5,2.43,2.4,2.31
+CZE,Czech Republic,1,Solar,1.28,1.36,1.37,1.34,1.33
+CZE,Czech Republic,2,Solar,3.02,2.8,2.74,2.73,2.66
+CZE,Czech Republic,2.4,Solar,3.31,3.36,3.35,3.32,3.39
+CZE,Czech Republic,2.3,Solar,3.09,3.22,3.21,3.24,3.2
+CZE,Czech Republic,2.4,Solar,3.54,3.36,3.36,3.31,3.3
+CZE,Czech Republic,1.3,Solar,1.6,1.74,1.74,1.69,1.65
+CZE,Czech Republic,4.5,Solar,6,6.59,6.61,6.33,6.21
+CZE,Czech Republic,3.2,Solar,4.52,4.7,4.63,4.55,4.4
+CZE,Czech Republic,1,Solar,1.4,1.33,1.28,1.26,1.22
+CZE,Czech Republic,5.1,Solar,7.47,7.72,7.37,7.19,6.98
+CZE,Czech Republic,2.2,Solar,3.15,3.09,3.11,3.13,3.05
+CZE,Czech Republic,5.1,Solar,6.91,7.71,7.72,7.38,7.22
+CZE,Czech Republic,1.6,Solar,2.01,2.19,2.21,2.13,2.1
+CZE,Czech Republic,5,Solar,6.78,7.56,7.57,7.26,7.04
+CZE,Czech Republic,1.9,Solar,2.45,2.51,2.54,2.42,2.4
+CZE,Czech Republic,1.6,Solar,2.12,2.18,2.21,2.11,2.09
+CZE,Czech Republic,1,Solar,1.26,1.36,1.36,1.28,1.27
+CZE,Czech Republic,4.2,Solar,5.76,6.1,6.12,5.83,5.74
+CZE,Czech Republic,2.8,Solar,3.94,3.98,4,3.91,3.91
+CZE,Czech Republic,2.3,Solar,3.21,3.21,3.23,3.19,3.19
+CZE,Czech Republic,1,Solar,1.22,1.37,1.35,1.28,1.27
+CZE,Czech Republic,1,Solar,1.29,1.35,1.36,1.28,1.27
+CZE,Czech Republic,1,Solar,1.26,1.35,1.34,1.28,1.27
+CZE,Czech Republic,2,Solar,2.8,2.72,2.82,2.76,2.74
+CZE,Czech Republic,13,Solar,18.66,19.94,19.75,19.22,18.72
+CZE,Czech Republic,1.2,Solar,1.5,1.56,1.61,1.56,1.53
+CZE,Czech Republic,3,Solar,4.5,4.31,4.31,4.17,4.03
+CZE,Czech Republic,3,Solar,4.5,4.31,4.35,4.17,4.03
+CZE,Czech Republic,1.1,Solar,1.32,1.47,1.46,1.39,1.38
+CZE,Czech Republic,10,Solar,13.43,15.07,14.91,14.46,14.15
+CZE,Czech Republic,1,Solar,1.28,1.36,1.36,1.28,1.26
+CZE,Czech Republic,3.5,Solar,4.68,5.13,5.14,5.01,4.96
+CZE,Czech Republic,3.5,Solar,4.67,5.11,5.12,4.92,4.9
+CZE,Czech Republic,820,Coal,,,,,3706.04
+CZE,Czech Republic,1.8,Solar,2.18,2.39,2.4,2.32,2.26
+CZE,Czech Republic,2,Solar,2.76,2.79,2.78,2.79,2.76
+CZE,Czech Republic,480,Hydro,927.76,314.56,381.65,307.18,306.34
+CZE,Czech Republic,4.8,Solar,7.03,7.85,7.85,7.58,7.55
+CZE,Czech Republic,800,Coal,,,,,3615.65
+CZE,Czech Republic,650,Hydro,1355.28,749.72,665.37,667.19,665.81
+CZE,Czech Republic,2.5,Solar,3.55,3.53,3.52,3.48,3.45
+CZE,Czech Republic,1.8,Solar,2.5,2.36,2.37,2.26,2.18
+CZE,Czech Republic,1.7,Solar,2.18,2.27,2.27,2.3,2.29
+CZE,Czech Republic,1.9,Solar,2.4,2.52,2.52,2.51,2.52
+CZE,Czech Republic,3.2,Solar,4.44,4.57,4.71,4.52,4.39
+CZE,Czech Republic,1.6,Solar,2.25,2.16,2.1,2.02,2.01
+CZE,Czech Republic,1,Solar,1.26,1.35,1.35,1.28,1.27
+CZE,Czech Republic,1.5,Solar,1.93,2.05,2.05,1.97,1.97
+CZE,Czech Republic,1,Solar,1.22,1.36,1.36,1.29,1.27
+CZE,Czech Republic,1.1,Solar,1.32,1.47,1.47,1.38,1.38
+CZE,Czech Republic,2.3,Solar,3.2,3.21,3.21,3.24,3.23
+CZE,Czech Republic,1.3,Solar,1.59,1.74,1.74,1.66,1.68
+CZE,Czech Republic,3.9,Solar,5.38,5.67,5.65,5.45,5.37
+CZE,Czech Republic,1.6,Solar,2.01,2.19,2.17,2.13,2.11
+CZE,Czech Republic,1,Solar,1.26,1.37,1.35,1.28,1.28
+CZE,Czech Republic,1.2,Solar,1.47,1.62,1.61,1.56,1.55
+CZE,Czech Republic,4.9,Solar,6.65,7.04,7.18,6.81,6.68
+CZE,Czech Republic,1,Solar,1.28,1.34,1.36,1.28,1.27
+CZE,Czech Republic,2040,Nuclear,,,,,14225.78
+CZE,Czech Republic,1.6,Solar,2.06,2.19,2.19,2.11,2.1
+CZE,Czech Republic,2,Solar,2.81,2.81,2.8,2.74,2.73
+CZE,Czech Republic,2.8,Solar,3.99,3.99,3.97,3.91,3.89
+CZE,Czech Republic,2.5,Solar,3.37,3.51,3.5,3.48,3.49
+CZE,Czech Republic,4.2,Solar,6.15,5.93,5.81,5.55,5.56
+CZE,Czech Republic,2.3,Solar,3.26,3.22,3.17,3.18,3.09
+CZE,Czech Republic,1,Solar,1.29,1.33,1.28,1.26,1.22
+CZE,Czech Republic,2,Solar,2.76,2.79,2.79,2.81,2.8
+CZE,Czech Republic,1,Solar,1.22,1.37,1.37,1.31,1.29
+CZE,Czech Republic,1,Solar,1.28,1.36,1.36,1.35,1.36
+CZE,Czech Republic,105,Coal,,,,,474.55
+CZE,Czech Republic,2.1,Solar,2.94,2.94,2.95,2.94,2.88
+CZE,Czech Republic,4.2,Solar,6.34,6.04,5.84,5.71,5.56
+CZE,Czech Republic,3.3,Solar,4.52,4.75,4.81,4.75,4.68
+CZE,Czech Republic,1.5,Solar,1.95,2.06,2.07,1.99,1.94
+CZE,Czech Republic,2,Solar,2.66,2.79,2.78,2.75,2.76
+CZE,Czech Republic,1,Solar,1.22,1.37,1.36,1.29,1.27
+CZE,Czech Republic,1.6,Solar,2.01,2.19,2.19,2.14,2.13
+CZE,Czech Republic,2,Solar,2.76,2.81,2.81,2.76,2.75
+CZE,Czech Republic,3.8,Solar,5.59,5.44,5.34,5.05,5.06
+CZE,Czech Republic,2.6,Solar,3.86,3.65,3.59,3.58,3.47
+CZE,Czech Republic,4.8,Solar,7.36,7.87,7.87,7.41,7.3
+CZE,Czech Republic,1.6,Solar,2.01,2.2,2.19,2.14,2.13
+CZE,Czech Republic,1.8,Solar,2.28,2.38,2.38,2.41,2.4
+CZE,Czech Republic,2.2,Solar,3.15,3.11,3.11,3.08,3.01
+CZE,Czech Republic,3.7,Solar,4.94,5.41,5.41,5.18,5.24
+CZE,Czech Republic,8,Solar,11.48,11.8,11.93,12.03,12.03
+CZE,Czech Republic,2,Solar,2.76,2.78,2.79,2.82,2.82
+CZE,Czech Republic,3.7,Solar,5.11,5.32,5.33,5.43,5.42
+CZE,Czech Republic,1.1,Solar,1.38,1.46,1.46,1.46,1.46
+CZE,Czech Republic,2,Solar,2.8,2.78,2.82,2.77,2.74
+CZE,Czech Republic,1.7,Solar,2.09,2.27,2.3,2.21,2.18
+CZE,Czech Republic,1.1,Solar,1.37,1.47,1.47,1.46,1.47
+CZE,Czech Republic,1.3,Solar,1.65,1.73,1.71,1.66,1.59
+CZE,Czech Republic,2.6,Solar,3.48,3.64,3.64,3.59,3.58
+CZE,Czech Republic,2.1,Solar,2.95,2.98,2.97,2.95,2.93
+CZE,Czech Republic,1.7,Solar,2.17,2.27,2.27,2.18,2.17
+CZE,Czech Republic,5,Solar,7.02,7.51,7.57,7.22,7.04
+CZE,Czech Republic,1.4,Solar,1.76,1.86,1.88,1.82,1.79
+CZE,Czech Republic,2.4,Solar,3.34,3.35,3.35,3.38,3.37
+CZE,Czech Republic,1.2,Solar,1.55,1.6,1.61,1.53,1.53
+CZE,Czech Republic,3.1,Solar,4.33,4.52,4.52,4.31,4.3
+CZE,Czech Republic,1.3,Solar,1.68,1.72,1.72,1.66,1.65
+CZE,Czech Republic,4,Solar,5.53,5.8,5.87,5.68,5.46
+CZE,Czech Republic,1.3,Solar,1.65,1.68,1.72,1.69,1.67
+CZE,Czech Republic,5.1,Solar,7.58,7.6,7.6,7.2,6.98
+CZE,Czech Republic,1.4,Solar,1.83,1.87,1.85,1.8,1.77
+CZE,Czech Republic,2.4,Solar,3.53,3.36,3.32,3.23,3.23
+CZE,Czech Republic,4,Solar,6.08,5.78,5.64,5.49,5.32
+CZE,Czech Republic,2,Solar,2.76,2.79,2.81,2.76,2.75
+CZE,Czech Republic,2,Solar,2.66,2.79,2.79,2.8,2.78
+CZE,Czech Republic,404,Coal,,,,,1825.9
+CZE,Czech Republic,110,Gas,,,,,258.77
+CZE,Czech Republic,8.4,Solar,10.91,12.31,12.31,11.69,11.53
+CZE,Czech Republic,1.3,Solar,1.65,1.72,1.72,1.66,1.65
+CZE,Czech Republic,4,Solar,5.34,5.84,5.86,5.64,5.52
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.28,1.27
+CZE,Czech Republic,2.3,Solar,3.26,3.22,3.22,3.18,3.16
+CZE,Czech Republic,210,Coal,,,,,949.1
+CZE,Czech Republic,2.3,Solar,3.21,3.21,3.22,3.25,3.19
+CZE,Czech Republic,1,Solar,1.25,1.36,1.34,1.28,1.26
+CZE,Czech Republic,1,Solar,1.25,1.36,1.34,1.28,1.26
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.28,1.28
+CZE,Czech Republic,2.8,Solar,3.94,3.99,3.93,3.93,3.9
+CZE,Czech Republic,1,Solar,1.29,1.36,1.35,1.29,1.25
+CZE,Czech Republic,1.9,Solar,2.46,2.54,2.52,2.43,2.38
+CZE,Czech Republic,1.9,Solar,2.41,2.53,2.52,2.42,2.38
+CZE,Czech Republic,2,Solar,2.76,2.79,2.79,2.77,2.73
+CZE,Czech Republic,1.9,Solar,2.41,2.52,2.51,2.42,2.38
+CZE,Czech Republic,1.2,Solar,1.55,1.62,1.61,1.6,1.59
+CZE,Czech Republic,4,Solar,5.63,5.86,5.84,5.68,5.49
+CZE,Czech Republic,3,Solar,4.03,4.36,4.37,4.28,4.17
+CZE,Czech Republic,1.6,Solar,2.13,2.21,2.2,2.14,2.08
+CZE,Czech Republic,3.3,Solar,4.6,4.79,4.74,4.51,4.49
+CZE,Czech Republic,1.3,Solar,1.64,1.74,1.74,1.68,1.68
+CZE,Czech Republic,2,Solar,2.76,2.81,2.8,2.74,2.66
+CZE,Czech Republic,1.1,Solar,1.4,1.45,1.46,1.39,1.37
+CZE,Czech Republic,1.1,Solar,1.32,1.46,1.47,1.44,1.39
+CZE,Czech Republic,1.8,Solar,2.54,2.36,2.36,2.26,2.18
+CZE,Czech Republic,1.5,Solar,1.97,2.05,2.05,2.06,2.05
+CZE,Czech Republic,2,Solar,2.76,2.78,2.79,2.81,2.8
+CZE,Czech Republic,1.7,Solar,2.15,2.26,2.27,2.22,2.18
+CZE,Czech Republic,1.3,Solar,1.65,1.73,1.72,1.66,1.65
+CZE,Czech Republic,5.6,Solar,7.69,8.41,8.42,7.98,7.86
+CZE,Czech Republic,1,Solar,1.22,1.37,1.37,1.28,1.29
+CZE,Czech Republic,3.9,Solar,5.47,5.57,5.58,5.69,5.67
+CZE,Czech Republic,1.4,Solar,1.99,1.85,1.79,1.77,1.72
+CZE,Czech Republic,1.5,Solar,1.99,2.05,2.05,2.08,2.07
+CZE,Czech Republic,1.1,Solar,1.37,1.46,1.46,1.44,1.43
+CZE,Czech Republic,1,Solar,1.26,1.35,1.36,1.29,1.28
+CZE,Czech Republic,4,Solar,5.59,5.72,5.72,5.86,5.84
+CZE,Czech Republic,1,Solar,1.29,1.35,1.35,1.29,1.27
+CZE,Czech Republic,2,Solar,2.82,2.77,2.78,2.79,2.78
+CZE,Czech Republic,1.4,Solar,1.81,1.85,1.85,1.78,1.76
+CZE,Czech Republic,2,Solar,2.76,2.79,2.79,2.76,2.76
+CZE,Czech Republic,640,Coal,,,,,2892.52
+CZE,Czech Republic,10,Solar,14.59,15.05,14.88,14.16,14.01
+CZE,Czech Republic,1,Solar,1.22,1.36,1.36,1.29,1.27
+CZE,Czech Republic,1.1,Solar,1.32,1.47,1.47,1.38,1.38
+CZE,Czech Republic,3,Solar,4.24,4.35,4.31,4.15,4.12
+CZE,Czech Republic,1,Solar,1.26,1.37,1.35,1.28,1.28
+CZE,Czech Republic,1.5,Solar,1.95,2.05,2.05,1.98,1.97
+CZE,Czech Republic,1.2,Solar,1.47,1.62,1.61,1.58,1.53
+CZE,Czech Republic,3.7,Solar,5.12,5.33,5.36,5.26,5.1
+CZE,Czech Republic,1.5,Hydro,5.41,3.83,4.03,4.06,4.05
+CZE,Czech Republic,120,Hydro,250.25,113.46,112.95,114.58,114.27
+CZE,Czech Republic,1.1,Solar,1.5,1.43,1.43,1.37,1.32
+CZE,Czech Republic,1.9,Solar,2.38,2.53,2.52,2.5,2.5
+CZE,Czech Republic,1,Solar,1.28,1.31,1.36,1.28,1.27
+CZE,Czech Republic,1.6,Solar,2.29,2.18,2.18,2.09,2.01
+CZE,Czech Republic,1,Solar,1.36,1.35,1.34,1.28,1.22
+CZE,Czech Republic,1,Solar,1.28,1.37,1.37,1.35,1.35
+CZE,Czech Republic,2,Solar,2.66,2.79,2.79,2.8,2.79
+CZE,Czech Republic,2.3,Solar,3.21,3.22,3.22,3.2,3.17
+CZE,Czech Republic,165,Coal,,,,,745.72
+CZE,Czech Republic,3.6,Solar,4.96,5.2,5.2,5.22,5.26
+CZE,Czech Republic,1,Solar,1.22,1.37,1.37,1.28,1.28
+CZE,Czech Republic,4.9,Solar,6.4,7.18,7.2,7.06,6.77
+CZE,Czech Republic,2,Solar,2.66,2.79,2.79,2.81,2.76
+CZE,Czech Republic,2.3,Solar,3.19,3.21,3.21,3.23,3.22
+CZE,Czech Republic,960,Coal,,,,,4338.78
+CZE,Czech Republic,1.1,Solar,1.38,1.46,1.46,1.46,1.46
+CZE,Czech Republic,1.6,Solar,2.1,2.18,2.18,2.19,2.19
+CZE,Czech Republic,5,Solar,6.91,7.56,7.56,7.17,7.04
+CZE,Czech Republic,17.5,Solar,24.98,26.99,26.98,25.89,25.55
+CZE,Czech Republic,1,Solar,1.35,1.36,1.33,1.28,1.26
+CZE,Czech Republic,1,Solar,1.26,1.35,1.35,1.28,1.26
+CZE,Czech Republic,1,Solar,1.38,1.36,1.29,1.26,1.22
+CZE,Czech Republic,1.5,Solar,1.95,2.05,2.05,2.05,2.04
+CZE,Czech Republic,1.9,Solar,2.41,2.51,2.51,2.51,2.5
+CZE,Czech Republic,1.2,Solar,1.53,1.62,1.62,1.62,1.62
+CZE,Czech Republic,1,Solar,1.26,1.35,1.34,1.29,1.26
+CZE,Czech Republic,2.1,Solar,3,2.98,2.97,3,2.92
+CZE,Czech Republic,2.1,Solar,2.97,2.94,2.95,2.96,2.93
+CZE,Czech Republic,1.6,Solar,2.09,2.21,2.21,2.12,2.09
+CZE,Czech Republic,3.4,Solar,5.13,4.95,4.73,4.62,4.5
+CZE,Czech Republic,2,Solar,2.66,2.79,2.82,2.8,2.74
+CZE,Czech Republic,1,Solar,1.36,1.33,1.28,1.26,1.22
+CZE,Czech Republic,2,Solar,3.02,2.81,2.8,2.75,2.72
+CZE,Czech Republic,2.8,Solar,3.99,4,4,3.93,3.78
+CZE,Czech Republic,3.2,Solar,4.53,4.62,4.61,4.73,4.69
+CZE,Czech Republic,4.9,Solar,6.66,7.19,7.19,7.03,6.8
+CZE,Czech Republic,3,Solar,4.24,4.37,4.37,4.18,4.12
+CZE,Czech Republic,2,Solar,2.76,2.78,2.79,2.81,2.8
+CZE,Czech Republic,2.4,Solar,3.4,3.36,3.36,3.32,3.3
+CZE,Czech Republic,1.2,Solar,1.65,1.59,1.59,1.53,1.47
+CZE,Czech Republic,1.5,Solar,2.17,2.04,1.97,1.94,1.88
+CZE,Czech Republic,1,Solar,1.28,1.36,1.37,1.34,1.32
+CZE,Czech Republic,1,Solar,1.28,1.33,1.36,1.28,1.27
+CZE,Czech Republic,2.4,Solar,3.35,3.36,3.36,3.34,3.32
+CZE,Czech Republic,3.3,Solar,4.54,4.8,4.78,4.6,4.53
+CZE,Czech Republic,2,Solar,2.66,2.79,2.79,2.77,2.8
+CZE,Czech Republic,3,Solar,4.12,4.37,4.37,4.26,4.27
+CZE,Czech Republic,3.6,Solar,4.81,5.26,5.23,5.04,4.97
+CZE,Czech Republic,3.5,Solar,4.79,5.09,5.14,4.97,4.84
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.34,1.33
+CZE,Czech Republic,3,Solar,4.18,4.36,4.34,4.24,4.16
+CZE,Czech Republic,360,Coal,,,,,1627.04
+CZE,Czech Republic,1,Solar,1.25,1.36,1.31,1.28,1.26
+CZE,Czech Republic,364,Hydro,925.49,672.67,598.28,674.51,562.73
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.28,1.28
+CZE,Czech Republic,3,Solar,4.18,4.36,4.34,4.24,4.15
+CZE,Czech Republic,8,Solar,11.13,11.95,11.95,11.84,11.87
+CZE,Czech Republic,2.5,Solar,3.84,3.52,3.46,3.46,3.37
+CZE,Czech Republic,2.5,Solar,3.46,3.49,3.51,3.53,3.46
+CZE,Czech Republic,3.4,Solar,4.67,4.94,4.92,4.66,4.63
+CZE,Czech Republic,1.9,Solar,2.41,2.53,2.55,2.46,2.39
+CZE,Czech Republic,1.3,Solar,1.65,1.74,1.73,1.66,1.66
+CZE,Czech Republic,1.6,Solar,2.09,2.19,2.2,2.11,2.1
+CZE,Czech Republic,3,Solar,4.18,4.36,4.34,4.24,4.15
+CZE,Czech Republic,3.3,Solar,4.62,4.74,4.74,4.51,4.47
+CZE,Czech Republic,1,Solar,1.36,1.33,1.28,1.24,1.22
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.34,1.33
+CZE,Czech Republic,137,Coal,,,,,619.18
+CZE,Czech Republic,65,Coal,,,,,293.77
+CZE,Czech Republic,1.2,Solar,1.7,1.59,1.56,1.52,1.47
+CZE,Czech Republic,1,Solar,1.4,1.34,1.3,1.26,1.22
+CZE,Czech Republic,1.3,Solar,1.79,1.72,1.66,1.6,1.59
+CZE,Czech Republic,1000,Coal,,,,,4519.56
+CZE,Czech Republic,1.4,Solar,1.78,1.87,1.87,1.79,1.79
+CZE,Czech Republic,5.8,Solar,7.88,8.54,8.65,8.29,8.06
+CZE,Czech Republic,2,Solar,2.76,2.78,2.78,2.81,2.8
+CZE,Czech Republic,1.5,Solar,1.95,2.05,2.03,1.96,1.88
+CZE,Czech Republic,165,Coal,,,,,745.72
+CZE,Czech Republic,4,Solar,6.08,5.82,5.61,5.48,5.34
+CZE,Czech Republic,840,Gas,,,,,1976.06
+CZE,Czech Republic,3.2,Solar,4.27,4.69,4.7,4.52,4.43
+CZE,Czech Republic,2.4,Solar,3.23,3.35,3.26,3.35,3.36
+CZE,Czech Republic,2.2,Solar,2.98,3.08,3.03,3.08,3.12
+CZE,Czech Republic,3.2,Solar,4.52,4.67,4.63,4.4,4.37
+CZE,Czech Republic,750,Coal,,,,,3389.67
+CZE,Czech Republic,3,Solar,4.24,4.31,4.24,4.14,4.03
+CZE,Czech Republic,1.7,Solar,2.15,2.28,2.28,2.22,2.22
+CZE,Czech Republic,1,Solar,1.26,1.37,1.32,1.28,1.28
+CZE,Czech Republic,2.1,Solar,2.94,2.94,2.95,2.95,2.93
+CZE,Czech Republic,1.5,Solar,1.95,2.06,2.06,1.97,1.97
+CZE,Czech Republic,1,Solar,1.4,1.33,1.3,1.26,1.22
+CZE,Czech Republic,1.5,Solar,1.99,2.06,2.07,1.98,1.95
+CZE,Czech Republic,1.6,Solar,2.06,2.18,2.21,2.14,2.11
+CZE,Czech Republic,3.4,Solar,4.62,4.89,4.89,4.89,4.88
+CZE,Czech Republic,2.3,Solar,3.17,3.19,3.23,3.25,3.18
+CZE,Czech Republic,6.5,Solar,8.75,9.65,9.7,9.29,9.06
+CZE,Czech Republic,14.2,Solar,20.24,21.73,21.6,20.87,20.59
+CZE,Czech Republic,12.8,Solar,18.18,19.66,19.6,18.77,18.49
+CZE,Czech Republic,6.6,Solar,8.97,9.82,9.71,9.33,9.12
+CZE,Czech Republic,4.5,Solar,6.22,6.56,6.55,6.3,6.17
+CZE,Czech Republic,2.2,Solar,3.09,3.06,2.99,3.12,3.08
+CZE,Czech Republic,2.2,Solar,3.07,3.07,3.07,3.09,3.08
+CZE,Czech Republic,1.4,Solar,1.78,1.86,1.86,1.79,1.78
+CZE,Czech Republic,1,Solar,1.22,1.35,1.35,1.29,1.29
+CZE,Czech Republic,2.7,Solar,3.75,3.8,3.8,3.82,3.81
+CZE,Czech Republic,7,Solar,9.35,10.47,10.45,10.08,9.99
+CZE,Czech Republic,2.7,Solar,3.85,3.82,3.81,3.76,3.74
+CZE,Czech Republic,2,Solar,2.76,2.79,2.82,2.78,2.74
+CZE,Czech Republic,2.3,Solar,3.43,3.23,3.18,3.18,3.08
+CZE,Czech Republic,1.7,Solar,2.34,2.29,2.22,2.17,2.09
+CZE,Czech Republic,1.2,Solar,1.53,1.61,1.62,1.59,1.58
+CZE,Czech Republic,1.4,Solar,1.79,1.86,1.87,1.86,1.84
+CZE,Czech Republic,4.3,Solar,6.01,6.19,6.19,5.86,5.83
+CZE,Czech Republic,1,Solar,1.36,1.33,1.33,1.27,1.22
+CZE,Czech Republic,1.4,Solar,1.93,1.85,1.85,1.78,1.72
+CZE,Czech Republic,1.2,Solar,1.7,1.59,1.55,1.52,1.47
+CZE,Czech Republic,1,Solar,1.26,1.37,1.37,1.28,1.28
+CZE,Czech Republic,4.6,Solar,6.39,7.08,7.07,6.74,6.74
+CZE,Czech Republic,1.1,Solar,1.39,1.46,1.45,1.38,1.36
+CZE,Czech Republic,4.8,Solar,7.47,7.78,7.79,7.89,7.86
+CZE,Czech Republic,1.2,Solar,1.52,1.61,1.62,1.58,1.54
+CZE,Czech Republic,1.5,Solar,1.99,2.07,2.04,2,1.95
+CZE,Czech Republic,2,Solar,2.97,2.8,2.8,2.75,2.66
+CZE,Czech Republic,1.1,Solar,1.39,1.45,1.46,1.38,1.37
+CZE,Czech Republic,6.1,Solar,8.42,9.09,9.09,8.55,8.21
+CZE,Czech Republic,2,Solar,2.73,2.79,2.78,2.75,2.76
+CZE,Czech Republic,70,Coal,,,,,316.36
+CZE,Czech Republic,144,Hydro,360.1,280.48,280.48,281.25,280.48
+CZE,Czech Republic,2.2,Solar,2.98,3.08,3.1,3.09,3.06
+CZE,Czech Republic,2.1,Solar,2.84,2.95,2.97,2.96,2.93
+CZE,Czech Republic,1.1,Solar,1.39,1.47,1.46,1.47,1.46
+CZE,Czech Republic,1,Solar,1.22,1.37,1.35,1.29,1.28
+CZE,Czech Republic,4.3,Solar,6.04,6.14,6.15,6.28,6.27
+CZE,Czech Republic,7.5,Solar,10.73,11.03,11.14,11.23,11.2
+CZE,Czech Republic,2.7,Solar,4.11,3.81,3.81,3.76,3.65
+CZE,Czech Republic,1.1,Solar,1.37,1.44,1.42,1.37,1.32
+CZE,Czech Republic,2.8,Solar,3.98,4,3.97,3.91,3.89
+CZE,Czech Republic,3,Solar,4.24,4.37,4.36,4.19,4.07
+CZE,Czech Republic,144,Coal,,,,,650.81
+CZE,Czech Republic,1.7,Solar,2.18,2.27,2.27,2.28,2.29
+CZE,Czech Republic,3.3,Solar,4.62,4.81,4.8,4.54,4.49
+CZE,Czech Republic,1.7,Solar,2.15,2.27,2.27,2.2,2.18
+CZE,Czech Republic,2.6,Solar,3.61,3.65,3.65,3.6,3.58
+CZE,Czech Republic,5,Solar,6.91,7.56,7.54,7.19,7.02
+CZE,Czech Republic,2,Solar,2.75,2.78,2.78,2.79,2.72
+CZE,Czech Republic,4,Solar,5.34,5.83,5.83,5.61,5.6
+CZE,Czech Republic,1.4,Solar,1.81,1.87,1.86,1.79,1.72
+CZE,Czech Republic,1,Solar,1.4,1.34,1.28,1.26,1.22
+CZE,Czech Republic,13.6,Solar,20.76,20.72,19.91,19.58,19.07
+CZE,Czech Republic,2.1,Solar,2.93,2.95,2.95,2.98,2.97
+CZE,Czech Republic,3.5,Solar,4.96,5.02,5.06,5.14,5.1
+CZE,Czech Republic,2.9,Solar,4.12,4.16,4.16,4.04,3.99
+CZE,Czech Republic,20,Solar,30.99,30.64,29.82,29.44,28.6
+CZE,Czech Republic,1.2,Solar,1.52,1.6,1.6,1.56,1.54
+CZE,Czech Republic,4,Solar,5.97,5.77,5.77,5.49,5.32
+CZE,Czech Republic,4.9,Solar,6.68,7.13,7.18,6.84,6.66
+CZE,Czech Republic,2.1,Solar,3.16,2.97,2.93,2.85,2.84
+CZE,Czech Republic,1,Solar,1.28,1.36,1.36,1.29,1.25
+CZE,Czech Republic,3.1,Solar,4.3,4.51,4.51,4.48,4.51
+CZE,Czech Republic,3.1,Solar,4.42,4.48,4.49,4.54,4.53
+CZE,Czech Republic,2.2,Solar,3.31,3.1,3.07,3.05,2.98
+CZE,Czech Republic,3.7,Solar,5.46,5.35,5.17,5.06,4.94
+CZE,Czech Republic,3.1,Solar,4.37,4.48,4.5,4.48,4.46
+CZE,Czech Republic,1,Solar,1.25,1.36,1.36,1.29,1.28
+CZE,Czech Republic,2133,Nuclear,,,,,14874.31
+CZE,Czech Republic,1,Solar,1.29,1.33,1.28,1.26,1.22
+CZE,Czech Republic,296,Coal,,,,,1337.79
+CZE,Czech Republic,2.2,Solar,2.98,3.08,3.06,3.11,3.12
+CZE,Czech Republic,2,Solar,3.06,2.81,2.75,2.74,2.66
+CZE,Czech Republic,1,Solar,1.37,1.33,1.33,1.26,1.22
+CZE,Czech Republic,177,Coal,,,,,799.96
+CZE,Czech Republic,2,Solar,2.73,2.78,2.79,2.75,2.76
+CZE,Czech Republic,159,Coal,,,,,718.61
+CZE,Czech Republic,1,Solar,1.28,1.36,1.36,1.35,1.36
+CZE,Czech Republic,1.8,Solar,2.28,2.38,2.38,2.41,2.4
+CZE,Czech Republic,7.7,Solar,10.51,11.5,11.47,10.92,10.74
+CZE,Czech Republic,800,Coal,,,,,3615.65
+CZE,Czech Republic,1,Solar,1.28,1.37,1.37,1.37,1.37
+CZE,Czech Republic,1,Solar,1.38,1.33,1.28,1.26,1.22
+CZE,Czech Republic,1,Solar,1.26,1.36,1.35,1.29,1.26
+CZE,Czech Republic,10.2,Solar,14.42,15.32,15.38,15.11,14.67
+CZE,Czech Republic,1,Solar,1.28,1.37,1.37,1.34,1.33
+CZE,Czech Republic,2,Solar,2.76,2.78,2.78,2.81,2.8
+CZE,Czech Republic,2.5,Solar,3.37,3.52,3.52,3.47,3.49
+CZE,Czech Republic,1.6,Solar,2.06,2.19,2.19,2.11,2.12
+CZE,Czech Republic,1.2,Solar,1.47,1.61,1.55,1.53,1.51
+CZE,Czech Republic,1.5,Solar,1.88,2.06,2.06,2.03,1.99
+CZE,Czech Republic,3.9,Solar,5.18,5.65,5.7,5.56,5.5
+CZE,Czech Republic,1.5,Solar,1.94,2.05,2.05,1.98,1.96
+CZE,Czech Republic,3.3,Solar,4.62,4.74,4.72,4.49,4.47
+CZE,Czech Republic,1.5,Solar,1.99,2.07,2.07,1.98,1.91
+CZE,Czech Republic,3.2,Solar,4.49,4.61,4.65,4.64,4.63
+CZE,Czech Republic,2,Solar,2.73,2.78,2.79,2.8,2.76
+CZE,Czech Republic,1,Solar,1.29,1.37,1.37,1.35,1.31
+CZE,Czech Republic,6.3,Solar,8.48,9.36,9.31,8.92,8.79
+CZE,Czech Republic,2.8,Solar,3.92,3.97,3.98,4.01,4
+CZE,Czech Republic,1.4,Solar,1.76,1.86,1.87,1.82,1.78
+CZE,Czech Republic,2.7,Solar,4.11,3.81,3.81,3.76,3.65
+CZE,Czech Republic,1.9,Solar,2.38,2.51,2.54,2.46,2.39
+CZE,Czech Republic,35,Solar,47.3,51.17,51.08,50.1,50.12
+CZE,Czech Republic,4.3,Solar,6.3,6.19,5.96,5.86,5.68
+CZE,Czech Republic,14,Solar,20.6,21.07,21.32,21.36,21.2
+CZE,Czech Republic,1,Solar,1.26,1.37,1.36,1.28,1.27
+CZE,Czech Republic,2.5,Solar,3.73,3.47,3.52,3.38,3.5
+CZE,Czech Republic,1.2,Solar,1.51,1.62,1.62,1.54,1.54
+CZE,Czech Republic,6.7,Solar,9.47,9.78,9.89,10,9.97
+CZE,Czech Republic,1.4,Solar,1.94,1.87,1.85,1.79,1.76
+CZE,Czech Republic,3,Solar,4.27,4.33,4.35,4.37,4.31
+CZE,Czech Republic,1,Solar,1.4,1.34,1.3,1.26,1.22
+CZE,Czech Republic,4,Solar,5.63,5.85,5.85,5.52,5.45
+CZE,Czech Republic,4.1,Solar,5.44,5.99,5.98,5.82,5.76
+CZE,Czech Republic,4.4,Solar,5.86,6.44,6.44,6.15,6.13
+CZE,Czech Republic,16,Solar,22.61,24.56,24.56,23.56,23.49
+CZE,Czech Republic,1.4,Solar,1.78,1.87,1.86,1.79,1.79
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.29,1.29
+CZE,Czech Republic,5,Solar,7.19,7.43,7.43,7.57,7.57
+CZE,Czech Republic,1.7,Solar,2.17,2.26,2.29,2.22,2.17
+CZE,Czech Republic,1,Solar,1.4,1.34,1.3,1.26,1.22
+CZE,Czech Republic,1.2,Solar,1.7,1.59,1.55,1.52,1.47
+CZE,Czech Republic,1.9,Solar,2.69,2.5,2.5,2.4,2.31
+CZE,Czech Republic,2.2,Solar,2.98,3.09,3.07,3.06,3.1
+CZE,Czech Republic,1.7,Solar,2.14,2.26,2.3,2.22,2.18
+CZE,Czech Republic,1.2,Solar,1.47,1.62,1.6,1.53,1.55
+CZE,Czech Republic,3.4,Solar,4.5,4.93,4.92,4.74,4.78
+CZE,Czech Republic,370,Gas,,,,,870.41
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.28,1.29
+CZE,Czech Republic,1.9,Solar,2.41,2.52,2.52,2.53,2.52
+CZE,Czech Republic,5.4,Solar,7.57,8.09,8.09,8,8.01
+CZE,Czech Republic,9.3,Solar,12.89,13.98,13.47,13.13,12.75
+CZE,Czech Republic,4.4,Solar,6.16,6.41,6.45,6.16,6.04
+CZE,Czech Republic,1.3,Solar,1.65,1.74,1.74,1.72,1.72
+CZE,Czech Republic,64,Coal,,,,,289.25
+CZE,Czech Republic,2.2,Solar,2.98,3.09,3.08,3.07,3.12
+CZE,Czech Republic,2,Solar,2.81,2.81,2.8,2.74,2.73
+CZE,Czech Republic,1.6,Solar,2.12,2.17,2.21,2.11,2.09
+CZE,Czech Republic,1.5,Solar,1.96,2.05,2.05,2.05,2.04
+CZE,Czech Republic,2.3,Solar,3.09,3.22,3.24,3.24,3.2
+CZE,Czech Republic,2.5,Solar,3.78,3.52,3.5,3.46,3.36
+CZE,Czech Republic,4.5,Solar,6.22,6.59,6.51,6.33,6.21
+CZE,Czech Republic,1.6,Solar,2.09,2.2,2.16,2.13,2.11
+CZE,Czech Republic,1.4,Solar,1.81,1.85,1.79,1.77,1.72
+CZE,Czech Republic,3.3,Solar,4.54,4.78,4.68,4.64,4.54
+CZE,Czech Republic,1.9,Solar,2.6,2.51,2.52,2.4,2.31
+CZE,Czech Republic,2.9,Solar,4.31,4.13,4.06,4.01,3.91
+CZE,Czech Republic,1,Solar,1.25,1.37,1.37,1.28,1.27
+CZE,Czech Republic,1.3,Solar,1.6,1.74,1.74,1.67,1.67
+CZE,Czech Republic,1,Solar,1.22,1.37,1.37,1.28,1.28
+CZE,Czech Republic,2.8,Solar,4.28,3.97,3.97,3.9,3.79
+CZE,Czech Republic,1.2,Solar,1.55,1.59,1.59,1.52,1.52
+CZE,Czech Republic,1.3,Solar,1.68,1.72,1.72,1.66,1.65
+CZE,Czech Republic,4.5,Solar,6.3,6.52,6.51,6.19,6.16
+CZE,Czech Republic,1.2,Solar,1.55,1.59,1.59,1.52,1.52
+CZE,Czech Republic,3,Solar,4.18,4.26,4.38,4.26,4.14
+CZE,Czech Republic,2,Solar,2.97,2.8,2.75,2.73,2.66
+CZE,Czech Republic,1,Solar,1.29,1.36,1.36,1.28,1.25
+CZE,Czech Republic,2.5,Solar,3.47,3.51,3.51,3.53,3.52
+CZE,Czech Republic,29.9,Solar,41.05,43.11,42.82,41.45,41.24
+CZE,Czech Republic,2.9,Solar,3.91,4.15,4.15,4.07,4.06
+CZE,Czech Republic,22.5,Hydro,83.45,61.54,71.76,61.71,62.55
+CZE,Czech Republic,45,Hydro,146.76,103.47,123.91,103.76,105.49
+CZE,Czech Republic,5.6,Solar,8.06,8.28,8.36,8.47,8.4
+CZE,Czech Republic,1.1,Solar,1.5,1.43,1.43,1.37,1.32
+CZE,Czech Republic,1.3,Solar,1.69,1.73,1.73,1.68,1.65
+CZE,Czech Republic,1,Solar,1.29,1.37,1.36,1.36,1.35
+CZE,Czech Republic,1.2,Solar,1.55,1.6,1.61,1.53,1.53
+CZE,Czech Republic,1,Solar,1.26,1.35,1.34,1.29,1.28
+CZE,Czech Republic,1.7,Solar,2.09,2.28,2.27,2.19,2.22
+CZE,Czech Republic,1.7,Solar,2.22,2.27,2.27,2.28,2.26
+CZE,Czech Republic,1.1,Solar,1.32,1.45,1.46,1.4,1.37
+CZE,Czech Republic,2.8,Solar,3.8,4,3.99,3.91,3.92
+DZA,Algeria,20,Solar,,35.22,34.22,35.33,35.17
+DZA,Algeria,20,Solar,,38.68,37.56,38.37,38.75
+DZA,Algeria,520,Gas,,,,,2171.28
+DZA,Algeria,20,Solar,,34.85,33.67,34.54,35.46
+DZA,Algeria,20,Solar,,33.42,33.58,34.75,34.81
+DZA,Algeria,53,Solar,,80.98,81.84,85.66,85.55
+DZA,Algeria,20,Solar,,33.64,33.68,33.63,33.75
+DZA,Algeria,43.5,Solar,,73.79,72.11,74.36,74.02
+DZA,Algeria,71,Gas,,,,,296.46
+DZA,Algeria,5,Solar,,8.93,8.71,8.72,8.64
+DZA,Algeria,560,Gas,,,,,2338.3
+DZA,Algeria,10,Solar,,17.31,16.85,17.16,16.67
+DZA,Algeria,100,Gas,,,,,417.55
+DZA,Algeria,450,Gas,,,,,1878.99
+DZA,Algeria,450,Gas,,,,,1878.99
+DZA,Algeria,15,Solar,,28.56,28.61,28.69,28.34
+DZA,Algeria,60,Solar,,96.03,95.17,93.44,95.16
+DZA,Algeria,292,Gas,,,,,1219.25
+DZA,Algeria,30,Solar,,49.38,47.99,50.88,48.72
+DZA,Algeria,1200,Gas,,,,,5010.64
+DZA,Algeria,418,Gas,,,,,1745.37
+DZA,Algeria,72,Gas,,,,,300.63
+DZA,Algeria,600,Gas,,,,,2505.32
+DZA,Algeria,200,Gas,,,,,835.1
+DZA,Algeria,492,Gas,,,,,2054.36
+DZA,Algeria,20,Solar,,35.77,34.3,35.45,34.69
+DZA,Algeria,106.6,Solar,,163.86,166.11,173.56,173.33
+DZA,Algeria,73.8,Solar,,129.42,130.32,131.08,130.11
+DZA,Algeria,24,Hydro,30.81,33.08,27.86,32.34,30.82
+DZA,Algeria,5,Solar,,9.34,8.63,8.8,8.75
+DZA,Algeria,588,Gas,,,,,2455.21
+DZA,Algeria,345,Gas,,,,,1440.56
+DZA,Algeria,1200,Gas,,,,,5010.64
+DZA,Algeria,20,Solar,,33.91,33.62,34.41,33.84
+DZA,Algeria,396,Gas,,,,,1653.51
+DZA,Algeria,840,Gas,,,,,3507.45
+DZA,Algeria,184,Gas,,,,,768.29
+DZA,Algeria,980,Gas,,,,,4092.02
+DZA,Algeria,19.9,Solar,,33.71,33.18,34.48,33.31
+DZA,Algeria,15,Solar,,27.9,28.76,28.54,28.38
+DZA,Algeria,20,Solar,,37.41,37.26,37.62,37.38
+DZA,Algeria,672,Gas,,,,,2805.96
+DZA,Algeria,20,Solar,,38.61,37.36,38.14,38.71
+DZA,Algeria,73,Gas,,,,,304.81
+DZA,Algeria,5,Solar,,8.8,8.84,8.82,8.92
+DZA,Algeria,465,Gas,,,,,1941.62
+DZA,Algeria,484,Gas,,,,,2020.96
+DZA,Algeria,815,Gas,,,,,3403.06
+DZA,Algeria,150,Gas,,,,,626.33
+DZA,Algeria,262,Gas,,,,,1093.99
+DZA,Algeria,13,Solar,,29.5,30.21,29.73,30.32
+DZA,Algeria,1200,Gas,,,,,5010.64
+DZA,Algeria,300,Gas,,,,,1252.66
+DZA,Algeria,200,Gas,,,,,835.1
+DZA,Algeria,600,Gas,,,,,2505.32
+DZA,Algeria,9,Solar,,16.23,15.86,16.16,15.97
+DZA,Algeria,9,Solar,,17.12,15.83,15.98,15.47
+DZA,Algeria,12,Solar,,22.61,22.44,22.98,22.83
+DZA,Algeria,6,Solar,,10.49,10.43,10.41,10.57
+GHA,Ghana,1038,Hydro,3894.61,3857.96,3242.91,2542.03,2571.73
+GHA,Ghana,400,Hydro,1180.27,1212.94,1437.24,968.37,1032.27
+GHA,Ghana,20,Solar,38.8,36.52,37.21,38.2,34.38
+GHA,Ghana,160,Hydro,662.62,650.73,559.07,451.19,455.61
+GHA,Ghana,330,Gas,,,,,1891.94
+GHA,Ghana,160,Gas,,,,,917.3
+IRL,Ireland,528,Gas,,,,,1812.22
+IRL,Ireland,435,Gas,,,,,1493.02
+IRL,Ireland,7.6,Wind,15.77,14.21,23.45,18.55,14.65
+IRL,Ireland,86,Hydro,308.53,240.01,330.36,293.11,242.52
+IRL,Ireland,13.3,Wind,46,41.56,37.12,36.75,36.12
+IRL,Ireland,2.55,Wind,4.92,6.83,6.08,5.57,5.25
+IRL,Ireland,42,Wind,131.86,127.86,137.52,132.72,129.14
+IRL,Ireland,32.4,Wind,,,,113.21,135.96
+IRL,Ireland,6.45,Wind,12.61,12.61,14.19,12.57,12.61
+IRL,Ireland,48,Wind,138.92,142.91,157,143.13,130.59
+IRL,Ireland,57,Wind,210.05,192.69,182.1,169.83,169.51
+IRL,Ireland,66.7,Wind,,,,232.87,271.27
+IRL,Ireland,39.6,Wind,,,165.05,135.77,146.82
+IRL,Ireland,41.4,Wind,172.03,154.29,144.59,128.84,127.93
+IRL,Ireland,46,Wind,,,,168.09,191.15
+IRL,Ireland,41.4,Wind,141.59,129.61,137.31,124,126.18
+IRL,Ireland,1.6,Wind,5.86,4.84,4.4,3.96,3.68
+IRL,Ireland,3.4,Wind,7.85,8.91,10.95,7.93,8.35
+IRL,Ireland,116,Oil,,,,,19.95
+IRL,Ireland,60,Wind,185.58,168.21,194.34,160.04,166.99
+IRL,Ireland,8,Wind,20.47,18.08,16.94,16.04,16.19
+IRL,Ireland,415,Gas,,,,,1424.37
+IRL,Ireland,117.6,Oil,,,,,20.22
+IRL,Ireland,42.5,Wind,162.42,170.17,160.67,129.45,137.29
+IRL,Ireland,26,Wind,,,,,58.33
+IRL,Ireland,5,Wind,10.39,10.13,12.01,10.01,12.31
+IRL,Ireland,32.5,Wind,132.34,126.48,109.9,99.34,92.07
+IRL,Ireland,216,Oil,,,,,37.14
+IRL,Ireland,343,Gas,,,,,1177.25
+IRL,Ireland,404,Gas,,,,,1386.62
+IRL,Ireland,45,Wind,140.81,136.53,147.34,143.56,137.89
+IRL,Ireland,36.8,Wind,,,155.55,121.19,141.39
+IRL,Ireland,87,Wind,,362.63,372.33,314.24,327.67
+IRL,Ireland,44.5,Wind,,182.79,186.98,161.7,165.75
+IRL,Ireland,5.9,Wind,13.6,13.67,15.96,12.67,10.13
+IRL,Ireland,27,Hydro,75.26,69.72,83.13,77.42,69.72
+IRL,Ireland,4.5,Wind,15.77,12.6,11.82,10.12,10.2
+IRL,Ireland,54,Wind,187.49,169.42,171.26,154.28,144.89
+IRL,Ireland,2.4,Wind,6.17,5.58,5.4,4.49,5.1
+IRL,Ireland,88,Gas,,,,,302.03
+IRL,Ireland,72,Wind,213.13,213.38,269.06,231.6,229.54
+IRL,Ireland,32.55,Wind,,,137.58,119.11,128.21
+IRL,Ireland,915,Coal,,,,,5809
+IRL,Ireland,84,Wind,,,363.7,298.46,335.53
+IRL,Ireland,34.5,Wind,112.54,101.45,112.06,99.53,94.13
+IRL,Ireland,480,Gas,,,,,1647.47
+IRL,Ireland,18.7,Wind,58.08,54.93,60.2,55.42,53.59
+IRL,Ireland,36.5,Wind,,,,,148.95
+IRL,Ireland,104,Oil,,,,,17.88
+IRL,Ireland,166,Gas,,,,,569.75
+IRL,Ireland,58,Wind,,,,,229.55
+IRL,Ireland,488,Oil,,,,,83.92
+IRL,Ireland,25.3,Wind,78.71,76.31,81.1,80.55,77.08
+IRL,Ireland,104,Oil,,,,,17.88
+IRL,Ireland,22,Wind,93.24,87.43,74.66,71.65,61.52
+IRL,Ireland,292,Hydro,643.39,520.1,732.75,666.23,520.1
+IRL,Ireland,388.5,Gas,,,,,1333.42
+IRL,Ireland,137,Biomass,,,,,
+IRL,Ireland,445,Gas,,,,,1527.34
+ITA,Italy,19,Hydro,36.22,49.22,46.09,55.36,36.73
+ITA,Italy,72,Other,,,,,266.88
+ITA,Italy,31,Solar,51.27,50.83,53.51,52.09,49.94
+ITA,Italy,808,Gas,,,,,3076.17
+ITA,Italy,500,Hydro,827.82,850.76,750.05,1251.9,354.38
+ITA,Italy,280,Gas,,,,,1066
+ITA,Italy,56,Hydro,160.44,213.1,173.14,184.96,118.15
+ITA,Italy,177,Oil,,,,,261.9
+ITA,Italy,210,Oil,,,,,310.73
+ITA,Italy,126.5,Hydro,296.34,329.88,310.04,375.29,240.1
+ITA,Italy,240,Gas,,,,,913.71
+ITA,Italy,1,Solar,1.73,1.74,1.77,1.73,1.6
+ITA,Italy,8.8,Solar,17.01,16.89,16.88,16.76,17.83
+ITA,Italy,2.2,Solar,3.77,3.68,3.65,3.67,3.51
+ITA,Italy,4.4,Solar,7.79,7.79,7.98,7.77,8.18
+ITA,Italy,5,Solar,7.82,7.98,8.63,8.6,8.09
+ITA,Italy,1.2,Solar,1.75,1.69,1.89,1.89,1.72
+ITA,Italy,2.7,Solar,5.21,4.96,4.84,4.76,5.27
+ITA,Italy,25,Solar,41.85,41.43,43.65,42.54,40.52
+ITA,Italy,5,Solar,9.51,9.49,9.57,9.44,9.73
+ITA,Italy,8.8,Solar,16.11,16.34,16.22,16.2,16.56
+ITA,Italy,1,Solar,1.62,1.61,1.6,1.57,1.72
+ITA,Italy,6.7,Solar,11.17,11.06,11.26,11.29,12.08
+ITA,Italy,976,Coal,,,,,3186.56
+ITA,Italy,1,Solar,1.68,1.63,1.68,1.65,1.66
+ITA,Italy,1,Solar,1.67,1.64,1.63,1.63,1.64
+ITA,Italy,4.7,Solar,9.64,10.06,9.81,9.63,9.82
+ITA,Italy,26,Solar,48.06,50.42,50.09,50.15,56.55
+ITA,Italy,19,Geothermal,,,,,124.49
+ITA,Italy,39,Geothermal,,,,,255.53
+ITA,Italy,281,Hydro,630.13,688.14,660.57,822.09,464.17
+ITA,Italy,80,Hydro,203.67,280.02,248.28,275.49,137.82
+ITA,Italy,95,Hydro,250.58,274.51,259.61,306.83,203.48
+ITA,Italy,89,Hydro,224.09,283.01,228.03,288.5,124.24
+ITA,Italy,125,Gas,,,,,475.89
+ITA,Italy,5,Solar,7.41,7.56,7.74,7.59,7.53
+ITA,Italy,9.4,Solar,14.19,14.19,15.09,15.01,14.69
+ITA,Italy,5,Solar,9.58,9.6,9.59,9.5,9.8
+ITA,Italy,6,Solar,10.42,10.26,11.29,11.01,11.57
+ITA,Italy,9.2,Solar,17.23,16.05,16.64,15.86,16.3
+ITA,Italy,10.5,Solar,19.21,18.35,18.17,18.31,21.13
+ITA,Italy,5.9,Solar,10.21,9.71,9.84,9.79,10.84
+ITA,Italy,6.5,Solar,10.06,10.1,11.11,11.11,10.31
+ITA,Italy,7.2,Solar,13.7,13.2,13.54,13.18,13.88
+ITA,Italy,15,Solar,29.36,28.48,28.98,28.3,30.97
+ITA,Italy,30,Solar,57.6,54.56,55.95,54.71,63.51
+ITA,Italy,6,Solar,11.44,11.02,11.26,11.01,11.52
+ITA,Italy,10,Solar,18.43,17.84,18.19,17.68,17.95
+ITA,Italy,5,Solar,9.56,9.27,9.51,9.36,9.66
+ITA,Italy,640,Coal,,,,,2089.55
+ITA,Italy,6.5,Solar,12.34,12.15,12.24,12.12,12.31
+ITA,Italy,6.6,Solar,12.53,12.29,12.44,12.28,12.5
+ITA,Italy,2640,Coal,,,,,8619.4
+ITA,Italy,20,Solar,41.68,44.68,41.29,41.99,45.87
+ITA,Italy,6,Solar,11.59,11.42,11.55,11.33,12.54
+ITA,Italy,68,Hydro,188.36,201.41,192.1,225.92,144.84
+ITA,Italy,400,Gas,,,,,1522.85
+ITA,Italy,113,Hydro,322.17,383.31,334.03,402.89,212.39
+ITA,Italy,19,Geothermal,,,,,124.49
+ITA,Italy,19,Geothermal,,,,,124.49
+ITA,Italy,121,Hydro,271.97,389.75,308.45,369.65,188.56
+ITA,Italy,87,Hydro,254.7,299.17,257.14,302.45,152.63
+ITA,Italy,83,Hydro,190.04,244.96,225.09,266.34,176.05
+ITA,Italy,787,Gas,,,,,2996.22
+ITA,Italy,130,Hydro,322.37,379.01,316.79,407.66,196.99
+ITA,Italy,180,Gas,,,,,685.28
+ITA,Italy,826,Gas,,,,,3144.7
+ITA,Italy,400,Gas,,,,,1522.85
+ITA,Italy,800,Gas,,,,,3045.71
+ITA,Italy,175,Hydro,446.84,545.09,464.4,574.44,240.98
+ITA,Italy,60,Hydro,163.97,201.44,151.65,202.65,76.48
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,1123,Gas,,,,,4275.42
+ITA,Italy,229.9,Hydro,530.5,584.83,552.37,670.91,378.09
+ITA,Italy,98,Hydro,265.12,313.27,250.36,298.17,159.93
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,400,Gas,,,,,1522.85
+ITA,Italy,480,Gas,,,,,1827.43
+ITA,Italy,104,Gas,,,,,395.94
+ITA,Italy,11,Solar,21.91,22.11,22.17,21.87,23.85
+ITA,Italy,6,Solar,10.08,10.01,10.37,10.34,10.45
+ITA,Italy,4.8,Solar,8.74,8.8,8.96,8.98,9.88
+ITA,Italy,5.5,Solar,8.28,8.5,8.52,8.24,8.17
+ITA,Italy,9.9,Solar,15.06,15.86,15.25,14.97,14.77
+ITA,Italy,6.1,Solar,9.13,9.55,9.26,9.08,8.96
+ITA,Italy,1,Solar,1.76,1.64,1.73,1.73,1.42
+ITA,Italy,1,Solar,1.76,1.66,1.73,1.71,1.42
+ITA,Italy,1.2,Solar,1.67,1.67,1.82,1.84,1.64
+ITA,Italy,4.1,Solar,5.59,5.69,6.06,6.02,6.42
+ITA,Italy,4.3,Solar,6.21,6,6.72,6.96,6.65
+ITA,Italy,4.5,Solar,6.29,6.58,6.8,6.65,7.03
+ITA,Italy,4.5,Solar,6.29,6.58,6.8,6.65,7.03
+ITA,Italy,8.8,Solar,13.96,13.86,15.58,15.54,14.15
+ITA,Italy,4.3,Solar,6.35,6.38,7.21,7.19,6.65
+ITA,Italy,969,Gas,,,,,3689.12
+ITA,Italy,20,Solar,34.87,33.97,34.7,35.79,36.59
+ITA,Italy,14,Solar,26.76,25.12,25.43,25.04,27.15
+ITA,Italy,9.9,Solar,18.62,18.45,18.48,18.23,19.5
+ITA,Italy,8.5,Solar,15.92,15.7,15.84,14.95,16.45
+ITA,Italy,8,Solar,13.36,13.46,13.34,13.38,14.41
+ITA,Italy,42.7,Solar,82.27,77.95,80.02,78.89,89.6
+ITA,Italy,8,Solar,13.59,13.21,13.46,13.93,14.22
+ITA,Italy,4.9,Solar,9.46,9.16,9.48,9.52,9.56
+ITA,Italy,4,Solar,7.16,7.06,7.24,7.01,7.72
+ITA,Italy,6.8,Solar,12.41,13.11,13.32,13.15,14.52
+ITA,Italy,5.2,Solar,9.02,8.62,8.72,8.66,9.63
+ITA,Italy,18.2,Solar,30.48,31.25,31.4,31.27,34.17
+ITA,Italy,5.7,Solar,9.94,9.84,9.52,9.85,9.46
+ITA,Italy,4.4,Solar,7.07,7.02,7.03,7.11,7.49
+ITA,Italy,13.2,Solar,26.22,26.63,26.7,26.33,28.33
+ITA,Italy,12,Solar,23.5,22.03,21.74,21.72,22.7
+ITA,Italy,6.2,Solar,9.62,9.97,10.33,10.22,11.13
+ITA,Italy,12.6,Solar,21.86,21.78,21.63,21.79,23.83
+ITA,Italy,804,Gas,,,,,3060.94
+ITA,Italy,950,Hydro,2157.67,2447.14,2397.87,3508.57,1390.26
+ITA,Italy,65,Solar,103.9,103.83,107.04,106.39,111.24
+ITA,Italy,769,Gas,,,,,2927.69
+ITA,Italy,1260,Gas,,,,,4797
+ITA,Italy,972,Gas,,,,,3700.54
+ITA,Italy,125,Hydro,310.58,369.19,308.9,332.53,140.04
+ITA,Italy,1064,Hydro,2450.31,2874.82,2744.07,3501.3,1194.1
+ITA,Italy,16,Solar,23.05,24.14,24.74,23.71,25.18
+ITA,Italy,18.4,Solar,39.7,42.58,42.69,42.63,44.52
+ITA,Italy,210,Hydro,488.31,546.76,511.06,619.35,351.86
+ITA,Italy,54,Geothermal,,,,,353.81
+ITA,Italy,8,Solar,15.2,15.03,15.7,14.98,16.3
+ITA,Italy,11.7,Solar,20.39,20.27,21.06,20.93,20.72
+ITA,Italy,12,Solar,21,20.8,21.62,21.48,21.18
+ITA,Italy,640,Coal,,,,,2089.55
+ITA,Italy,33.3,Solar,62.18,63.67,67.58,68.7,73.14
+ITA,Italy,1,Solar,1.7,1.68,1.69,1.65,1.72
+ITA,Italy,6.3,Solar,11.49,11.77,11.92,11.74,12.28
+ITA,Italy,5,Solar,7.6,7.88,7.91,8.17,7.82
+ITA,Italy,8,Solar,13.98,13.45,13.63,13.28,14.52
+ITA,Italy,295,Hydro,612.5,861.07,684.15,864.1,334.58
+ITA,Italy,137.2,Hydro,366,438.77,365.88,444.1,228.22
+ITA,Italy,14,Solar,26.3,25.13,25.51,25.09,27.14
+ITA,Italy,840,Gas,,,,,3198
+ITA,Italy,655,Hydro,1424.05,1550.63,1681.44,2327.24,1228.14
+ITA,Italy,80,Hydro,183.17,236.11,216.95,256.71,161.35
+ITA,Italy,7,Solar,13.64,13.12,13.35,13.25,14.07
+ITA,Italy,9.6,Solar,17.85,17.5,17.72,17.62,18.71
+ITA,Italy,1,Solar,1.62,1.62,1.6,1.56,1.73
+ITA,Italy,2,Solar,3.71,3.73,3.63,3.79,3.9
+ITA,Italy,16,Solar,30.74,29.88,30.19,30.09,31.72
+ITA,Italy,29.3,Solar,52.09,47.68,48.96,47.34,56.8
+ITA,Italy,6.5,Solar,11.83,11.55,11.67,11.38,12.61
+ITA,Italy,5,Solar,9.44,8.54,9.08,8.39,9.34
+ITA,Italy,2,Solar,3.69,3.66,3.79,3.72,3.76
+ITA,Italy,6.2,Solar,9.51,9.98,10.55,10.2,10.52
+ITA,Italy,521,Gas,,,,,1983.52
+ITA,Italy,76,Hydro,197.04,288.41,271.51,256.65,257.55
+ITA,Italy,117.6,Hydro,258.88,341.58,260.3,337.21,136.59
+ITA,Italy,2,Solar,3.73,3.83,3.87,3.73,3.94
+ITA,Italy,12,Solar,20.55,21.48,21.77,21.11,22.77
+ITA,Italy,140,Gas,,,,,533
+ITA,Italy,5.2,Solar,8.95,8.82,9.27,9.11,9.43
+ITA,Italy,1465.85,Gas,,,,,5580.7
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,116.7,Oil,,,,,172.67
+ITA,Italy,120,Hydro,313.44,381.13,323.62,400.01,212.86
+ITA,Italy,188,Hydro,433.04,482.88,450.92,547.85,308.4
+ITA,Italy,250,Gas,,,,,951.78
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,379.5,Gas,,,,,1444.81
+ITA,Italy,752.5,Gas,,,,,2864.87
+ITA,Italy,310,Oil,,,,,458.69
+ITA,Italy,13.4,Solar,20.22,20.47,21.15,20.23,19.92
+ITA,Italy,1300,Coal,,,,,4244.4
+ITA,Italy,1,Solar,1.62,1.61,1.62,1.6,1.73
+ITA,Italy,23.7,Solar,39.77,39.74,43.12,42.51,47.04
+ITA,Italy,1,Solar,1.63,1.67,1.62,1.64,1.68
+ITA,Italy,11,Solar,21.26,21.17,21.34,21.07,21.95
+ITA,Italy,9.1,Solar,17.22,16.6,17.16,16.88,19.26
+ITA,Italy,12.6,Solar,22.42,22.03,22.92,22.59,21.91
+ITA,Italy,1,Solar,1.67,1.65,1.64,1.63,1.73
+ITA,Italy,75,Hydro,171.73,221.35,203.39,240.67,151.27
+ITA,Italy,6,Solar,9.99,9.84,9.77,10.31,10.65
+ITA,Italy,164.34,Hydro,372.83,505.24,425.97,526.37,173.77
+ITA,Italy,162.9,Gas,,,,,620.18
+ITA,Italy,56,Hydro,159.3,200.04,162.92,198.04,100.63
+ITA,Italy,780,Gas,,,,,2969.57
+ITA,Italy,3446,Gas,,,,,13119.43
+ITA,Italy,105.24,Wind,,,,,191.76
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,110,Hydro,259.97,332.76,306.42,361.11,241.42
+ITA,Italy,101.44,Hydro,239.74,306.86,282.57,333.01,222.63
+ITA,Italy,7.2,Solar,13.97,13.84,14.02,14,14.8
+ITA,Italy,4.5,Solar,8.1,7.97,8.25,8.04,8.17
+ITA,Italy,352,Gas,,,,,1340.11
+ITA,Italy,1,Solar,1.62,1.61,1.6,1.57,1.72
+ITA,Italy,7.6,Solar,13.83,13.96,14.24,13.91,14.54
+ITA,Italy,8,Solar,14.38,14.73,14.87,14.49,15.22
+ITA,Italy,8,Solar,11.82,12.04,12.41,11.83,11.68
+ITA,Italy,7.7,Solar,14.22,14.62,14.79,14.38,15.16
+ITA,Italy,4,Solar,5.59,5.85,6.02,5.97,6.17
+ITA,Italy,8,Solar,15,13.9,14.07,13.73,15.46
+ITA,Italy,1,Solar,1.59,1.74,1.75,1.73,1.59
+ITA,Italy,2.3,Solar,3.72,3.74,3.68,3.76,3.95
+ITA,Italy,1,Solar,1.55,1.75,1.8,1.76,1.58
+ITA,Italy,8,Solar,13.47,13.14,13.47,13.51,14.27
+ITA,Italy,6,Solar,10.06,10.07,10.38,10.98,10.96
+ITA,Italy,4,Solar,6.46,6.4,6.38,6.58,6.8
+ITA,Italy,44,Solar,70.42,68.26,69.92,72.4,77.57
+ITA,Italy,57.4,Solar,91.93,88.85,91.01,94.46,101.01
+ITA,Italy,12,Solar,21.06,20.61,20.78,21.64,22.05
+ITA,Italy,17,Solar,29.54,28.89,29.48,30.33,31.24
+ITA,Italy,12,Solar,21.26,20.66,21.11,21.79,22.11
+ITA,Italy,15,Solar,26.26,25.63,26.1,26.96,27.63
+ITA,Italy,14,Solar,24.01,24.34,25.38,25.02,26.71
+ITA,Italy,13.3,Solar,23.28,22.76,23.17,23.92,24.45
+ITA,Italy,1,Solar,1.62,1.61,1.59,1.57,1.73
+ITA,Italy,6.3,Solar,11.96,11.57,11.86,11.67,12.09
+ITA,Italy,5,Solar,9.56,9.26,9.51,9.39,9.63
+ITA,Italy,5,Solar,9.2,9.25,9.57,9.4,9.38
+ITA,Italy,9.4,Solar,16.86,17.1,17.41,17.22,17.01
+ITA,Italy,5,Solar,9.56,9.27,9.51,9.36,9.66
+ITA,Italy,336,Coal,,,,,1097.01
+ITA,Italy,5,Solar,9.68,9.41,9.59,9.35,10.21
+ITA,Italy,5,Solar,9.7,9.54,9.59,9.35,10.13
+ITA,Italy,4,Solar,7.24,7.15,7.14,7,7.44
+ITA,Italy,11,Solar,21.72,21.65,22.15,21.44,25.18
+ITA,Italy,6.5,Solar,12.54,12.17,12.5,12.07,13.38
+ITA,Italy,1,Solar,1.63,1.62,1.65,1.7,1.61
+ITA,Italy,5.7,Solar,9.51,9.69,9.45,9.51,10.31
+ITA,Italy,24,Solar,40.6,38.34,38.55,38.91,47.27
+ITA,Italy,400,Gas,,,,,1522.85
+ITA,Italy,97,Other,,,,,359.54
+ITA,Italy,15,Geothermal,,,,,98.28
+ITA,Italy,19,Geothermal,,,,,124.49
+ITA,Italy,11,Geothermal,,,,,72.07
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,18,Geothermal,,,,,117.93
+ITA,Italy,11,Geothermal,,,,,72.07
+ITA,Italy,59,Geothermal,,,,,386.57
+ITA,Italy,39,Geothermal,,,,,255.53
+ITA,Italy,17,Geothermal,,,,,111.38
+ITA,Italy,49,Geothermal,,,,,321.05
+ITA,Italy,2,Solar,3.36,3.34,3.28,3.29,3.15
+ITA,Italy,4.5,Solar,6.77,6.86,7.14,7.13,7.04
+ITA,Italy,4.6,Solar,7.23,7.22,7.99,7.99,7.53
+ITA,Italy,15,Solar,25.91,26.16,26.83,27.94,28.24
+ITA,Italy,1457,Gas,,,,,5547.01
+ITA,Italy,5.9,Solar,10.74,10.87,11.1,10.85,11.27
+ITA,Italy,806,Gas,,,,,3068.56
+ITA,Italy,18,Geothermal,,,,,117.93
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,365,Gas,,,,,1389.6
+ITA,Italy,1280,Oil,,,,,1893.98
+ITA,Italy,105,Other,,,,,389.2
+ITA,Italy,150,Hydro,432.15,453.63,387.23,505.96,229.72
+ITA,Italy,92,Hydro,259.92,300.19,232.43,251.37,127.83
+ITA,Italy,100,Gas,,,,,380.71
+ITA,Italy,750,Gas,,,,,2855.36
+ITA,Italy,140,Oil,,,,,207.15
+ITA,Italy,2640,Oil,,,,,3906.34
+ITA,Italy,125,Gas,,,,,475.89
+ITA,Italy,1005,Hydro,2304.59,3043.99,2729.89,3718.15,1640.01
+ITA,Italy,750,Gas,,,,,2855.36
+ITA,Italy,13,Solar,26.44,28.11,25.9,25.91,29.7
+ITA,Italy,139,Hydro,329.29,366.14,344.34,416.04,267.49
+ITA,Italy,7,Solar,12.82,11.64,11.69,11.66,12.4
+ITA,Italy,5,Solar,8.8,9.25,9.42,9.25,9.56
+ITA,Italy,2.99,Solar,4.99,4.93,4.91,4.85,5.26
+ITA,Italy,5,Solar,9.56,9.26,9.47,9.26,9.59
+ITA,Italy,5.9,Solar,9.16,9.5,9.82,9.7,10.29
+ITA,Italy,2.3,Solar,3.89,3.9,3.83,3.9,3.71
+ITA,Italy,4.5,Solar,8.35,8.1,8.39,8.21,8.4
+ITA,Italy,1,Solar,1.62,1.62,1.5,1.47,1.77
+ITA,Italy,15,Solar,25.63,25.35,25.23,26.5,27.32
+ITA,Italy,150,Coal,,,,,489.73
+ITA,Italy,5,Solar,8.39,8.12,8.18,8.6,9.01
+ITA,Italy,4.6,Solar,7.18,7.42,7.76,7.63,8
+ITA,Italy,320,Oil,,,,,473.49
+ITA,Italy,2.9,Solar,4.8,4.84,4.82,4.83,5.06
+ITA,Italy,3,Solar,4.33,4.38,4.52,4.39,4.65
+ITA,Italy,4.1,Solar,6.05,6.08,6.75,6.76,6.37
+ITA,Italy,1.4,Solar,1.95,1.9,2.06,2.06,1.91
+ITA,Italy,18,Geothermal,,,,,117.93
+ITA,Italy,18,Geothermal,,,,,117.93
+ITA,Italy,117,Hydro,304.25,371.1,314.41,384.94,183.03
+ITA,Italy,760,Gas,,,,,2893.43
+ITA,Italy,1000,Hydro,2669.59,3245.29,3061.82,3841.77,1946.34
+ITA,Italy,135,Hydro,316.25,352.04,330.88,400.5,256.23
+ITA,Italy,1200,Oil,,,,,1775.61
+ITA,Italy,9.5,Solar,18,17.22,17.54,17.61,19.93
+ITA,Italy,5,Solar,8.41,8.36,8.3,8.37,9.07
+ITA,Italy,15,Solar,25.96,25.96,26.76,26.68,27.31
+ITA,Italy,544,Hydro,1130.55,1296.31,1106.07,1741.36,529.08
+ITA,Italy,490,Hydro,1104.2,1205.36,1157.27,1636.74,814.8
+ITA,Italy,377,Hydro,915.42,1094.28,931.12,1167.97,479.72
+ITA,Italy,866,Oil,,,,,1281.4
+ITA,Italy,137,Gas,,,,,521.57
+ITA,Italy,630,Gas,,,,,2398.5
+ITA,Italy,180,Gas,,,,,685.28
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,101.6,Hydro,270.83,350.49,266.23,286.07,148.43
+ITA,Italy,19,Geothermal,,,,,124.49
+ITA,Italy,1151,Gas,,,,,4382.02
+ITA,Italy,18,Geothermal,,,,,117.93
+ITA,Italy,110.6,Other,,,,,409.96
+ITA,Italy,760,Gas,,,,,2893.43
+ITA,Italy,220,Hydro,470.59,680.89,511.78,671.51,316.32
+ITA,Italy,144,Hydro,367.33,458.41,389.71,454.48,239.27
+ITA,Italy,800,Gas,,,,,3045.71
+ITA,Italy,213.5,Hydro,472.53,721.46,560.53,623.3,329.1
+ITA,Italy,760,Gas,,,,,2893.43
+ITA,Italy,6,Solar,10.36,9.94,9.94,10.05,11.11
+ITA,Italy,9.3,Solar,17.1,16.85,16.86,17.36,18.38
+ITA,Italy,1.7,Solar,2.4,2.48,2.77,2.68,2.58
+ITA,Italy,5,Solar,8.02,8.04,7.86,8.03,7.75
+ITA,Italy,4.8,Solar,8.52,8.38,8.33,8.37,8.07
+ITA,Italy,5.2,Solar,8.37,8.54,8.41,8.51,7.99
+ITA,Italy,1,Solar,1.57,1.75,1.67,1.62,1.64
+ITA,Italy,24,Solar,44.71,46.75,45.07,46.03,52.07
+ITA,Italy,4.8,Solar,7.65,7.13,7.68,7.53,7.44
+ITA,Italy,1,Solar,1.57,1.68,1.67,1.64,1.66
+ITA,Italy,4.5,Solar,6.61,6.87,7.15,7.11,7.36
+ITA,Italy,1,Solar,1.55,1.74,1.78,1.77,1.56
+ITA,Italy,1,Solar,1.56,1.76,1.78,1.77,1.58
+ITA,Italy,34.6,Solar,57.84,56.69,58.3,57.89,54.82
+ITA,Italy,24,Solar,40.4,39.61,40.67,40.31,37.94
+ITA,Italy,390,Gas,,,,,1484.78
+ITA,Italy,8.4,Solar,14.8,15.62,14.91,15.25,16.69
+ITA,Italy,5.6,Solar,11.11,10.61,10.69,10.75,11.41
+ITA,Italy,5,Solar,8.32,8.62,8.44,8.48,9.04
+ITA,Italy,4.9,Solar,8.41,8.41,8.08,8.34,7.98
+ITA,Italy,3.6,Solar,6.46,6.13,6.34,6.54,6.6
+ITA,Italy,6.8,Solar,12.98,13.26,13.13,13.4,13.52
+ITA,Italy,48,Solar,76.59,75.94,78.72,78.42,80.32
+ITA,Italy,21,Solar,37.54,35.63,35.45,35.68,41.81
+ITA,Italy,6.5,Solar,11.4,10.86,10.9,10.71,12.65
+ITA,Italy,7,Solar,12.76,12.3,12.26,12.88,13.53
+ITA,Italy,8,Solar,13.51,13.34,13.3,13.24,14.31
+ITA,Italy,4.9,Solar,9.55,9.28,9.4,9.38,9.64
+ITA,Italy,5,Solar,8.46,8.06,8.25,8.64,9.01
+ITA,Italy,8,Solar,14,13.46,13.24,13.12,15.56
+ITA,Italy,6,Solar,10.07,9.93,9.94,10.07,11.08
+ITA,Italy,20,Solar,37.98,38.37,38.45,38.53,43.32
+ITA,Italy,350,Coal,,,,,1142.72
+ITA,Italy,6.1,Solar,10.19,10.18,10.44,11.33,11.12
+ITA,Italy,161,Hydro,410.7,509.59,429.36,521.39,267.35
+ITA,Italy,240,Hydro,351.7,321.59,414.44,557.32,222.56
+ITA,Italy,1520,Gas,,,,,5786.86
+ITA,Italy,1235,Gas,,,,,4701.82
+ITA,Italy,95,Gas,,,,,361.67
+ITA,Italy,395,Hydro,703.56,941.76,870.34,1097.23,594.26
+ITA,Italy,223,Gas,,,,,848.99
+ITA,Italy,110,Hydro,323.83,400.84,332.13,389.21,199.04
+ITA,Italy,1488,Gas,,,,,5665.03
+ITA,Italy,67,Hydro,139.68,196.26,178.34,191.74,92.67
+ITA,Italy,785,Gas,,,,,2988.61
+ITA,Italy,213.4,Gas,,,,,812.44
+ITA,Italy,20,Geothermal,,,,,131.04
+ITA,Italy,39,Geothermal,,,,,255.53
+ITA,Italy,1569,Oil,,,,,2321.61
+ITA,Italy,7.8,Solar,11.97,11.68,12.32,12.38,12.03
+ITA,Italy,8,Solar,15,14.75,14.92,14.82,14.93
+ITA,Italy,10,Solar,15,14.8,15.75,15.45,15.79
+ITA,Italy,1980,Coal,,,,,6464.55
+ITA,Italy,7,Solar,10.89,11.06,12,11.99,11.19
+ITA,Italy,6.2,Solar,9.62,9.64,10.6,10.6,9.84
+ITA,Italy,14.1,Solar,25.23,25.06,24.24,24.99,24.26
+ITA,Italy,4.5,Solar,7.56,7.62,7.34,7.57,7.23
+ITA,Italy,13.5,Solar,23.36,23.43,23.11,23.26,25.22
+ITA,Italy,1,Solar,1.65,1.66,1.62,1.68,1.7
+ITA,Italy,1,Solar,1.64,1.66,1.63,1.68,1.72
+ITA,Italy,1,Solar,1.66,1.66,1.61,1.64,1.71
+ITA,Italy,1,Solar,1.66,1.64,1.61,1.64,1.71
+ITA,Italy,1,Solar,1.65,1.66,1.63,1.68,1.71
+ITA,Italy,1,Solar,1.64,1.66,1.64,1.68,1.72
+ITA,Italy,5.2,Solar,9.75,10.33,9.83,9.91,10.13
+ITA,Italy,1.5,Solar,2.51,2.5,2.46,2.46,2.37
+ITA,Italy,4.8,Solar,10.3,10.4,10.49,10.42,10.26
+ITA,Italy,5.8,Solar,10.99,10.52,10.55,10.98,11.3
+ITA,Italy,1353,Gas,,,,,5151.07
+ITA,Italy,114,Geothermal,,,,,746.95
+ITA,Italy,130,Hydro,332.48,382.79,306.03,405.55,151.16
+ITA,Italy,230,Hydro,530.74,585.08,552.61,671.2,378.25
+ITA,Italy,327.1,Hydro,784.1,965.58,773.15,1137.76,415.04
+ITA,Italy,140,Gas,,,,,533
+ITA,Italy,60,Hydro,134.16,194.3,164.46,155.55,80.16
+ITA,Italy,380.5,Gas,,,,,1448.61
+ITA,Italy,2,Solar,3.31,3.27,3.25,3.25,3.56
+ITA,Italy,6,Solar,10,10,9.96,9.99,10.85
+ITA,Italy,6.8,Solar,11.03,11.25,11.4,11.39,12.28
+ITA,Italy,40,Solar,63.7,62.13,62.32,65.44,69.03
+ITA,Italy,4.6,Solar,7.19,7.42,7.72,7.63,7.73
+ITA,Italy,1,Solar,1.74,1.72,1.76,1.74,1.6
+ITA,Italy,5,Solar,9.32,9.32,9.33,9.49,9.65
+ITA,Italy,1,Solar,1.62,1.63,1.5,1.47,1.78
+ITA,Italy,10.9,Solar,18.97,19.36,19.78,19.81,20.15
+ITA,Italy,9.3,Solar,17.55,16.93,17.67,17.38,19.63
+LUX,Luxembourg,385,Gas,,,,,908.11
+LUX,Luxembourg,1296,Hydro,2443.57,3016,3599.13,3342.2,4056.41
+MUS,Mauritius,15,Solar,35.49,35.18,35.18,35.32,35.18
+MUS,Mauritius,14.2,Solar,33.42,33.12,33.12,33.23,33.12
+MUS,Mauritius,70,Coal,,,,,470.97
+MUS,Mauritius,30,Hydro,,,,,44.38
+MUS,Mauritius,35,Coal,,,,,235.48
+MUS,Mauritius,24.65,Biomass,,,,,
+MUS,Mauritius,10,Hydro,,,,,14.79
+MUS,Mauritius,137.424,Oil,,,,,355
+MUS,Mauritius,50.38,Oil,,,,,130.14
+MUS,Mauritius,150,Oil,,,,,387.49
+MUS,Mauritius,39.7,Biomass,,,,,
+MUS,Mauritius,25.6,Solar,61.38,60.76,60.76,61.01,60.76
+MUS,Mauritius,13,Biomass,,,,,
+MUS,Mauritius,12,Biomass,,,,,
+MUS,Mauritius,12.5,Biomass,,,,,
+MUS,Mauritius,84.64,Oil,,,,,218.64
+MUS,Mauritius,15,Solar,35.49,35.18,35.18,35.32,35.18
+MUS,Mauritius,13.8,Solar,32.47,32.19,32.19,32.29,32.19
+MUS,Mauritius,105,Coal,,,,,706.46
+MUS,Mauritius,28.3,Solar,68.2,67.51,67.51,67.79,67.51
+MUS,Mauritius,76.992,Oil,,,,,198.89
+MUS,Mauritius,11.383,Hydro,,,,,16.84
+MUS,Mauritius,14.7,Coal,,,,,98.9
+NGA,Nigeria,1074,Gas,,,,,2514.99
+NGA,Nigeria,561,Gas,,,,,1313.69
+NGA,Nigeria,225,Gas,,,,,526.88
+NGA,Nigeria,10,Solar,16.69,16.25,16.24,16.3,16.89
+NGA,Nigeria,190,Gas,,,,,444.92
+NGA,Nigeria,450,Gas,,,,,1053.76
+NGA,Nigeria,540,Hydro,,,,,1981.84
+NGA,Nigeria,760,Hydro,,,,,2789.25
+NGA,Nigeria,750,Gas,,,,,1756.28
+NGA,Nigeria,150,Gas,,,,,351.25
+NGA,Nigeria,500,Gas,,,,,1170.85
+NGA,Nigeria,450,Gas,,,,,1053.76
+NGA,Nigeria,600,Hydro,1721.79,2093.69,2151.78,2442.32,2631.64
+NOR,Norway,103,Hydro,432.4,398.8,399.6,381.73,432.4
+NOR,Norway,60,Hydro,294.09,280.27,284.25,285.03,284.25
+NOR,Norway,180,Hydro,756.43,722.59,681.19,729.47,708.88
+NOR,Norway,183,Hydro,768.75,779.03,757.6,718.35,723.12
+NOR,Norway,9,Hydro,44.3,46.06,45.55,46.37,46.25
+NOR,Norway,108,Hydro,475.51,450.44,450.44,451.67,450.44
+NOR,Norway,5,Hydro,18.66,20.67,20.67,20.73,19.01
+NOR,Norway,17,Hydro,77.16,80.86,81.22,77.23,83.64
+NOR,Norway,10,Hydro,40.77,38.19,38.19,38.3,38.19
+NOR,Norway,157,Hydro,656.07,620.58,620.58,622.28,620.58
+NOR,Norway,15,Hydro,66.34,66.22,69.34,69.61,71.15
+NOR,Norway,36,Hydro,153.02,154.2,157.98,157.78,159.52
+NOR,Norway,352,Hydro,1282.26,1202.69,1202.69,1205.99,1202.69
+NOR,Norway,1398,Hydro,5305.73,5305.73,5305.73,5362.91,5305.73
+NOR,Norway,85,Hydro,366.8,366.24,388.16,368.97,366.24
+NOR,Norway,2,Hydro,8.44,8.39,8.63,8.13,8.65
+NOR,Norway,38,Hydro,152.52,143.7,143.7,144.09,143.7
+NOR,Norway,1,Hydro,3.58,3.57,3.56,3.83,3.56
+NOR,Norway,3,Hydro,14.15,14.01,14.54,13.83,13.7
+NOR,Norway,10,Hydro,40.77,38.19,38.19,38.3,38.19
+NOR,Norway,17,Hydro,68.99,64.6,64.6,64.78,64.6
+NOR,Norway,13,Hydro,55.95,56.72,56.45,55.22,56.72
+NOR,Norway,58,Wind,,,,,137.04
+NOR,Norway,36,Hydro,145.03,159.83,159.97,160.21,158.2
+NOR,Norway,70,Hydro,300.51,306.87,306.87,294.88,308.34
+NOR,Norway,29,Hydro,116.84,110.1,110.1,110.4,110.1
+NOR,Norway,117,Hydro,487.53,461.08,461.08,462.35,461.08
+NOR,Norway,6,Hydro,31.87,31.5,31.74,31.58,31.62
+NOR,Norway,60,Hydro,240.4,226.47,226.47,227.09,226.47
+NOR,Norway,240,Hydro,925.64,840.33,840.33,849.96,840.33
+NOR,Norway,62,Hydro,276.44,280.04,280.29,250.91,247.52
+NOR,Norway,102,Hydro,506.56,508.07,474.92,475.07,455.08
+NOR,Norway,140,Hydro,594.69,558.13,588.34,583.37,637.29
+NOR,Norway,14,Hydro,51.14,47.53,47.53,47.66,47.53
+NOR,Norway,92,Hydro,385.72,384.26,383.74,376.28,385.39
+NOR,Norway,16,Hydro,58.45,54.32,54.32,54.47,54.32
+NOR,Norway,2,Hydro,9.1,8.82,9.09,8.73,9.3
+NOR,Norway,443,Hydro,1354.09,1688.68,1670.36,1613.82,1680.14
+NOR,Norway,15,Hydro,62.35,61.99,60.27,64.86,65.67
+NOR,Norway,4,Hydro,13.11,12.13,12.13,12.16,12.13
+NOR,Norway,4,Hydro,13.14,12.16,12.16,12.19,12.16
+NOR,Norway,4,Hydro,19.01,18.58,20.06,19.46,19.44
+NOR,Norway,25,Hydro,100.54,94.74,94.74,95,94.74
+NOR,Norway,25,Hydro,99,93.19,93.19,93.45,93.19
+NOR,Norway,31,Hydro,114.63,119.34,114.44,121.03,114.44
+NOR,Norway,171,Hydro,714.58,675.92,675.92,677.77,675.92
+NOR,Norway,8,Hydro,38.56,39.01,38.75,38.92,38.33
+NOR,Norway,37,Hydro,148.25,139.65,139.65,140.04,139.65
+NOR,Norway,6,Hydro,25.95,24.81,25.76,24.88,24.81
+NOR,Norway,30,Hydro,140.9,136.82,135.35,137.19,140.9
+NOR,Norway,17,Hydro,92.66,90.02,88.88,89.62,87.3
+NOR,Norway,5,Hydro,25.34,24.51,25.16,25.32,24.5
+NOR,Norway,5,Hydro,17.79,16.63,16.63,16.68,16.63
+NOR,Norway,4,Hydro,17,19.02,18.53,19.09,17.39
+NOR,Norway,160,Hydro,589.1,574.88,596.11,597.74,589.1
+NOR,Norway,200,Hydro,760.92,778.97,753.37,,888.41
+NOR,Norway,4,Hydro,19.06,19.19,19.35,,17.76
+NOR,Norway,39,Hydro,174.29,177.31,176.48,,173.24
+NOR,Norway,382,Gas,,,,,1098.58
+NOR,Norway,14,Hydro,67.75,65.91,67.41,66.09,65.91
+NOR,Norway,18,Hydro,94.2,87.71,86.27,94.08,84.55
+NOR,Norway,35,Hydro,150.41,142.28,142.28,142.67,142.28
+NOR,Norway,12,Hydro,47.52,44.43,44.3,48.06,39.67
+NOR,Norway,100,Hydro,402.57,379.35,379.35,380.39,379.35
+NOR,Norway,5,Hydro,15.77,14.6,14.6,14.64,14.6
+NOR,Norway,6,Hydro,19.89,18.34,18.34,18.39,18.34
+NOR,Norway,6,Hydro,24.01,22.46,25.93,26,22.75
+NOR,Norway,6,Hydro,19.84,18.29,18.29,18.34,18.29
+NOR,Norway,78,Hydro,354.26,355.52,354.26,345.9,354.26
+NOR,Norway,446,Hydro,1513.67,1513.67,1551.91,1479.06,1558.53
+NOR,Norway,60,Hydro,222.31,231.42,221.95,234.69,221.95
+NOR,Norway,22,Hydro,112.58,97.02,108.89,97.29,104.45
+NOR,Norway,59,Wind,,,,,139.41
+NOR,Norway,6,Hydro,26.03,25.57,25.57,26.49,25.83
+NOR,Norway,20,Hydro,97.15,96.54,96.94,96.6,96.95
+NOR,Norway,8,Hydro,40.09,38.98,40.02,40.03,40.89
+NOR,Norway,130,Hydro,502.62,473.23,473.23,474.53,473.23
+NOR,Norway,49,Gas,,,,,140.91
+NOR,Norway,60,Hydro,245.78,249.86,249.86,247,250.09
+NOR,Norway,14,Hydro,74.3,74.33,69.62,73.16,66.89
+NOR,Norway,5,Hydro,20.21,19.53,20.05,19.94,19.55
+NOR,Norway,49,Hydro,193.82,212.94,198.24,200.36,197.87
+NOR,Norway,14,Hydro,51.14,47.53,47.53,47.66,47.53
+NOR,Norway,11,Hydro,56.28,53.12,56.29,51.32,54.42
+NOR,Norway,273,Hydro,894,876.09,870.55,984.89,851.07
+NOR,Norway,3,Hydro,13.89,12.89,13.45,12.54,13.87
+NOR,Norway,9,Hydro,37.58,37.36,36.33,39.09,39.57
+NOR,Norway,11,Hydro,44.85,42.01,42.01,42.13,42.01
+NOR,Norway,1,Hydro,4.47,4.15,4.33,4.31,4.18
+NOR,Norway,85,Hydro,346.7,340.94,413.31,351.44,354.56
+NOR,Norway,50,Hydro,208.22,209.21,231.4,209.76,208.61
+NOR,Norway,22,Hydro,93.68,91.34,96.84,91.41,97.27
+NOR,Norway,44,Hydro,195.56,193.51,198.36,195.91,193.4
+NOR,Norway,5,Hydro,15.77,14.6,14.6,14.64,14.6
+NOR,Norway,17,Hydro,88.23,87.81,90.09,88.1,87.82
+NOR,Norway,5,Hydro,17.79,16.63,16.63,16.68,16.63
+NOR,Norway,9,Hydro,40.26,41.13,41.05,40.7,42.41
+NOR,Norway,15,Hydro,76.24,76.03,77.74,69.69,76.03
+NOR,Norway,5,Hydro,17.79,16.63,16.63,16.68,16.63
+NOR,Norway,6,Hydro,26,24.01,24.5,24.52,24.45
+NOR,Norway,11,Hydro,40.51,37.67,37.67,37.77,37.67
+NOR,Norway,32,Hydro,146.15,156.32,154.19,156.75,158.12
+NOR,Norway,90,Hydro,373.9,387.97,377.73,379.28,377.73
+NOR,Norway,24,Hydro,113.75,113.75,116.48,110.02,113.75
+NOR,Norway,26,Hydro,117.18,105.97,111.45,109.31,121.64
+NOR,Norway,4,Hydro,18.09,18.35,18.8,18.04,19.32
+NOR,Norway,40,Hydro,190.09,188.88,182.98,190.61,196.19
+NOR,Norway,45,Wind,,,,,106.32
+NOR,Norway,1,Hydro,4.88,5.1,5.03,5.03,5.14
+NOR,Norway,6,Hydro,26.56,26.42,27.01,26.62,27.99
+NOR,Norway,160,Hydro,634.51,635.3,647.74,637.04,691.22
+NOR,Norway,42,Hydro,159.82,171.77,166.38,157.5,171.77
+NOR,Norway,42,Hydro,171.54,180.51,181.19,178.28,181.19
+NOR,Norway,100,Hydro,441.65,437.38,450.05,442.86,441.65
+NOR,Norway,4,Hydro,16.65,16.47,17.19,14.85,16.47
+NOR,Norway,6,Hydro,25.32,25.16,25.69,25.23,27.22
+NOR,Norway,6,Hydro,19.89,18.34,18.34,18.39,18.34
+NOR,Norway,19,Hydro,69.54,64.64,64.64,64.81,64.64
+NOR,Norway,62,Hydro,266.17,271.8,271.8,261.18,273.1
+NOR,Norway,40,Wind,,,,,94.51
+NOR,Norway,12,Hydro,53.3,50.34,54.84,48.81,53.45
+NOR,Norway,40,Hydro,177.96,163.04,170.02,166.72,184.83
+NOR,Norway,60,Hydro,277.94,285.58,285.58,287.3,294.3
+NOR,Norway,35,Hydro,142.66,142.36,145.31,143.05,145.48
+NOR,Norway,188,Hydro,848.84,797.8,777.68,831.24,777.68
+NOR,Norway,20,Hydro,92.37,92.65,92.37,94.47,92.37
+NOR,Norway,45,Hydro,180.41,177.18,176.27,194.34,173.62
+NOR,Norway,55,Wind,,,,,129.95
+NOR,Norway,150,Hydro,526.33,511.44,525.59,532.52,578.51
+NOR,Norway,6,Hydro,22.28,20.73,20.73,20.78,20.73
+NOR,Norway,9,Hydro,41.39,41.14,41.13,39.57,42.31
+NOR,Norway,43,Hydro,172.29,162.3,162.3,162.75,162.3
+NOR,Norway,32,Hydro,136.11,136.57,136.11,139.44,136.11
+NOR,Norway,74,Wind,,,,,174.85
+NOR,Norway,20,Hydro,100.07,103.07,96.92,100.33,92.91
+NOR,Norway,11,Hydro,40.39,37.55,37.55,37.66,37.55
+NOR,Norway,348,Hydro,1276.17,1274.31,1344.11,1277.8,1265.08
+NOR,Norway,460,Hydro,1547.64,1534.49,1493.73,1496.82,1461.42
+NOR,Norway,56,Hydro,218.79,204,218.45,211.6,214.3
+NOR,Norway,3,Hydro,9.34,8.61,8.61,8.63,8.61
+NOR,Norway,4,Hydro,14.73,13.75,13.75,13.79,13.75
+NOR,Norway,5,Hydro,17.79,16.63,16.63,16.68,16.63
+NOR,Norway,7,Hydro,29.03,28.8,30.06,25.91,28.8
+NOR,Norway,55,Hydro,254.78,261.78,261.78,263.36,269.78
+NOR,Norway,73,Hydro,294.62,277.67,277.67,278.43,277.67
+NOR,Norway,124,Hydro,505.49,521.17,518.72,508.63,504.43
+NOR,Norway,46,Wind,,,,,108.69
+NOR,Norway,190,Hydro,740.24,697.29,697.29,699.2,697.29
+NOR,Norway,5,Hydro,23.65,22.52,22.89,22.99,23.61
+NOR,Norway,105,Hydro,416.23,399.01,415.59,400.1,399.01
+NOR,Norway,17,Hydro,77.04,78.07,75.2,79.81,81.28
+NOR,Norway,6,Hydro,25.49,24.59,25.3,25.37,27.91
+NOR,Norway,53,Hydro,262.09,233.6,234.8,270.6,241.31
+NOR,Norway,65,Hydro,291.04,295.52,256.45,289.56,256.95
+NOR,Norway,38,Hydro,163.3,154.48,154.48,154.9,154.48
+NOR,Norway,7,Hydro,25.99,24.18,24.18,24.25,24.18
+NOR,Norway,320,Hydro,1092.96,1162.76,1111.89,1113.22,1229.33
+NOR,Norway,44,Hydro,204.31,204.31,211.62,212.2,212.17
+NOR,Norway,8,Hydro,35.83,33.09,35.76,34.42,36.69
+NOR,Norway,7,Hydro,23.15,21.34,21.34,21.4,21.34
+NOR,Norway,101,Hydro,444.22,444.22,454.99,428.46,444.22
+NOR,Norway,30,Hydro,120.65,113.69,113.69,114,113.69
+NOR,Norway,22,Hydro,88.79,83.68,83.68,83.91,83.68
+NOR,Norway,3,Hydro,9.36,8.63,8.63,8.65,8.63
+NOR,Norway,6,Hydro,26.49,26.6,28.1,27.99,25.98
+NOR,Norway,6,Hydro,22.28,20.73,20.73,20.78,20.73
+NOR,Norway,9,Hydro,39.33,36.95,38.65,37.33,37.85
+NOR,Norway,7,Hydro,23.15,21.34,21.34,21.4,21.34
+NOR,Norway,7,Hydro,34.93,34.61,35.74,33.96,33.88
+NOR,Norway,72,Hydro,272.31,271.09,277.38,271.83,288.85
+NOR,Norway,50,Wind,,,,,118.14
+NOR,Norway,97,Hydro,361.14,361.29,351.83,374.3,379.69
+NOR,Norway,5,Hydro,15.8,14.64,14.64,14.68,14.64
+NOR,Norway,12,Hydro,61.23,62,62,59.86,61.81
+NOR,Norway,5,Hydro,15.8,14.64,14.64,14.68,14.64
+NOR,Norway,352,Hydro,1305.04,1225.47,1225.47,1228.83,1225.47
+NOR,Norway,163,Hydro,735.29,718.58,696.65,725.36,736.64
+NOR,Norway,4,Hydro,13.11,12.13,12.13,12.16,12.13
+NOR,Norway,64,Hydro,260.78,262.41,254,267.25,285.04
+NOR,Norway,50,Hydro,200.68,189.08,189.08,189.59,189.08
+NOR,Norway,4,Hydro,17.38,17.8,17.71,17.95,17.24
+NOR,Norway,1444,Hydro,5614.82,5954.37,5303.79,5668.84,5588.92
+NOR,Norway,90,Hydro,366.86,377.57,377.57,365.71,383.34
+NOR,Norway,8,Hydro,38.06,32.61,37.81,32.7,32.61
+NOR,Norway,56,Hydro,228.65,228.67,248.44,228.39,251.65
+NOR,Norway,34,Hydro,136.23,128.33,128.33,128.68,128.33
+NOR,Norway,580,Hydro,2105.46,1974.35,1974.35,1979.76,1974.35
+NOR,Norway,10,Hydro,51.65,46.79,51.25,49.85,51.51
+NOR,Norway,115,Hydro,559.96,492.22,539.2,493.57,516.37
+NOR,Norway,9,Hydro,41.12,41.29,39.9,43.28,43.58
+NOR,Norway,38,Hydro,162.86,166.31,166.31,159.8,167.11
+NOR,Norway,10,Hydro,41.2,45.59,40.79,40.89,41.84
+NOR,Norway,5,Hydro,19.71,19.55,20.99,21.4,20.84
+NOR,Norway,53,Hydro,222.43,197.33,222.11,197.87,197.33
+NOR,Norway,2,Hydro,7.84,7.16,7.16,7.18,7.16
+NOR,Norway,24,Hydro,109.29,109.48,109.14,113.24,106.77
+NOR,Norway,51,Hydro,201.19,189.35,189.35,189.86,189.35
+NOR,Norway,83,Hydro,322.7,338.21,307.73,308.57,307.73
+NOR,Norway,20,Hydro,86.02,90.29,91.63,89.24,91.87
+NOR,Norway,22,Hydro,88.63,83.52,83.52,83.75,83.52
+NOR,Norway,60,Hydro,275.89,277.82,276.25,276.35,275.89
+NOR,Norway,140,Hydro,494.74,516.85,494.74,524.42,494.74
+NOR,Norway,2,Hydro,9.11,9.28,8.43,8.11,8.55
+NOR,Norway,15,Hydro,80.07,79.7,77.94,79.51,75.97
+NOR,Norway,6,Hydro,29.19,28.92,30.45,28.81,30.45
+NOR,Norway,6,Hydro,24.41,24.59,24.91,25.17,24.59
+NOR,Norway,264,Hydro,1041.71,982.04,982.04,984.73,982.04
+NOR,Norway,275,Hydro,921.55,943.5,928.45,924.07,928.45
+NOR,Norway,29,Hydro,116.63,109.9,109.9,110.2,109.9
+NOR,Norway,307,Hydro,1131.47,1131.47,1171.49,1174.7,1183.86
+NOR,Norway,60,Hydro,243.96,249.05,246.91,258.07,268.55
+NOR,Norway,26,Hydro,133.16,132.75,134.89,132.43,138.38
+NOR,Norway,250,Gas,,,,,718.96
+NOR,Norway,42,Hydro,162.43,154.7,161.33,162.02,163.17
+NOR,Norway,9,Hydro,32.49,30.17,30.17,30.25,30.17
+NOR,Norway,2,Hydro,9.29,9.27,9.37,9.3,9.46
+NOR,Norway,1,Hydro,4.06,3.64,3.55,3.65,3.52
+NOR,Norway,46,Hydro,,,,,204.33
+NOR,Norway,72,Hydro,343.88,321.97,343.82,319.18,323.45
+NOR,Norway,118,Hydro,410.91,414.42,414.42,415.56,412.54
+NOR,Norway,520,Gas,,,,,1495.44
+NOR,Norway,260,Hydro,891.82,773.64,874.92,775.76,870.51
+NOR,Norway,378,Hydro,1364.47,1162.17,1325.17,1294.6,1278.21
+NOR,Norway,343,Hydro,1294.72,1281.74,1323.55,1298.27,1294.72
+NOR,Norway,51,Hydro,217.15,218.83,224.17,223.9,226.36
+NOR,Norway,70,Hydro,311.94,285.83,298.05,292.28,323.97
+NOR,Norway,299,Hydro,1198.34,1091.99,1152.43,1090.53,1152.43
+NOR,Norway,56,Hydro,276.92,246.82,248.09,285.91,254.97
+NOR,Norway,9,Hydro,39.71,39.64,41.4,38.77,41.4
+NOR,Norway,302,Hydro,1004.83,1004.83,986.32,953.91,990.65
+NOR,Norway,50,Hydro,186.41,198.44,198.32,198.98,219.12
+NOR,Norway,93,Hydro,375.58,353.99,353.99,354.96,353.99
+NOR,Norway,36,Wind,,,,,85.06
+NOR,Norway,240,Hydro,973.9,919.64,919.64,922.16,919.64
+NOR,Norway,56,Hydro,224.77,211.77,211.77,212.35,211.77
+NOR,Norway,50,Hydro,198.2,182.45,204.88,198.43,193.74
+NOR,Norway,96,Hydro,395.43,392.99,401.59,397.02,393.81
+NOR,Norway,188,Hydro,662.36,641.09,673.33,707.9,673.33
+NOR,Norway,150,Hydro,531.98,487.48,531.98,533.44,531.98
+NOR,Norway,109,Hydro,468.92,466.71,466.58,469.1,466.71
+NOR,Norway,253,Gas,,,,,727.59
+NOR,Norway,39,Hydro,167.54,167.54,166.24,167.86,166.75
+NOR,Norway,570,Hydro,2109.26,2061.24,2081.77,2066.88,2076.12
+NOR,Norway,100,Hydro,402.57,379.35,379.35,380.39,379.35
+NOR,Norway,114,Hydro,414.88,446.86,417.24,448.08,430.1
+NOR,Norway,113,Hydro,412.32,444.01,414.65,445.23,427.4
+NOR,Norway,192,Hydro,661.35,688.21,687.76,690.09,760.45
+NOR,Norway,56,Hydro,271.53,244.96,238.3,265.07,232.89
+NOR,Norway,65,Hydro,309.4,295.89,301.39,311.25,289.91
+NOR,Norway,206,Hydro,765.13,756.45,849.88,760.75,775.91
+NOR,Norway,90,Hydro,401.53,406.75,407.11,364.47,359.55
+NOR,Norway,674,Hydro,2408.51,2567,2263.33,2433.14,2396.42
+NOR,Norway,78,Hydro,315.34,297.23,297.23,298.05,297.23
+NOR,Norway,75,Hydro,298.06,298.64,297.76,301.73,297.76
+NOR,Norway,229,Hydro,954.32,902.55,902.55,905.03,902.55
+NOR,Norway,60,Hydro,293.54,255.09,283.47,255.79,271.57
+NOR,Norway,88,Hydro,375.59,332.46,357.96,336.38,345.41
+NOR,Norway,83,Hydro,315.17,366.26,325.56,327.12,344.32
+NOR,Norway,120,Hydro,455.44,466.33,466.33,450.99,468.86
+NOR,Norway,360,Hydro,1363.05,1326.81,1382.91,1465.63,1410.66
+NOR,Norway,54,Hydro,267.57,266.72,271.17,251.72,278.41
+NOR,Norway,102,Hydro,491.08,491.08,476.45,509.55,492.78
+NOR,Norway,160,Wind,,,,,378.06
+NOR,Norway,240,Hydro,898.57,912.49,913.45,914.98,786.62
+NOR,Norway,250,Hydro,838.33,870.97,861.03,834.67,864.46
+NOR,Norway,140,Hydro,490.19,527.27,518.2,519.62,511.66
+NOR,Norway,310,Hydro,1223.23,1153.15,1153.15,1156.31,1153.15
+NOR,Norway,88,Hydro,345.31,353.3,361.04,353.05,344.77
+NOR,Norway,107,Hydro,406.26,406.42,395.99,420.79,426.71
+NOR,Norway,125,Hydro,572.23,507.19,510.02,592.18,526.17
+NOR,Norway,198,Hydro,763.33,718.57,718.57,720.54,718.57
+NOR,Norway,66,Hydro,265,249.67,249.67,250.36,249.67
+NOR,Norway,170,Hydro,628.67,601.83,628.67,603.48,601.83
+NOR,Norway,42,Hydro,197.85,182.93,182.93,183.43,182.93
+NOR,Norway,350,Hydro,1056.95,1070.84,1070.84,1043.2,1103.33
+NOR,Norway,118,Hydro,432.49,412.56,432.49,437.56,414.46
+NOR,Norway,128,Hydro,509.51,434.52,492.85,450.54,451.07
+NOR,Norway,780,Hydro,3137.37,3252.67,3328.57,3261.58,3332.52
+NOR,Norway,42,Hydro,194.43,186.33,193.72,195.76,208.88
+NOR,Norway,140,Hydro,586.42,554.78,554.78,556.3,554.78
+NOR,Norway,111,Hydro,535.02,531.66,515.3,536.49,551.94
+NOR,Norway,61,Hydro,265.35,263.7,255.11,256.55,254.4
+NOR,Norway,720,Hydro,2880.89,2718.12,2718.12,2725.57,2718.12
+NOR,Norway,60,Hydro,247.3,216.67,247.3,228.36,242.6
+NOR,Norway,70,Hydro,333.17,331.05,320.74,334.09,343.84
+NOR,Norway,130,Hydro,476.34,488.07,490.81,477.64,495.54
+NOR,Norway,140,Hydro,543.42,546.82,550.58,532.16,546.93
+NOR,Norway,480,Hydro,1751.97,1739.24,1789.37,1747,1872.41
+NOR,Norway,1130,Hydro,3988.43,4026.87,4057.17,3896.49,4027.72
+NOR,Norway,170,Hydro,724.04,750.88,724.04,689.98,750.88
+NOR,Norway,169,Hydro,704.04,682.77,682.77,701.14,703.26
+NOR,Norway,203,Hydro,835.92,836.66,812.07,853.78,811.34
+NOR,Norway,64,Hydro,250.97,249.56,250.57,251.26,256.82
+NOR,Norway,440,Hydro,1407.92,1301.38,1407.92,1347.67,1375.35
+NOR,Norway,258,Hydro,975.8,872.43,861.97,958.39,860.83
+NOR,Norway,40,Hydro,155.22,162.7,147.67,148.07,147.67
+NOR,Norway,206,Hydro,861.71,853.11,910.54,855.45,858.62
+NOR,Norway,42,Hydro,156,159.41,173.11,160.17,167.72
+NOR,Norway,150,Hydro,643.17,607.14,670.55,608.81,669.12
+NOR,Norway,252,Hydro,935.2,949.81,950.81,952.4,817.65
+NOR,Norway,224,Hydro,769.78,774.23,878.69,776.27,773.7
+NOR,Norway,55,Hydro,220.37,207.6,207.6,208.17,207.6
+NOR,Norway,45,Hydro,190.1,178.97,184.75,173.81,190.1
+NOR,Norway,375,Hydro,1173.68,1181.11,1285.13,1186.34,1365.41
+NOR,Norway,42,Hydro,202.21,188.11,185.24,202.93,180.73
+NOR,Norway,66,Hydro,258.41,258.01,258.01,249.94,255.12
+SVK,Slovakia,6,Solar,8.29,8.91,8.9,8.58,8.36
+SVK,Slovakia,880,Nuclear,,,,,6805.78
+SVK,Slovakia,735,Hydro,2597.78,2210.18,2927.73,2216.24,2210.18
+SVK,Slovakia,24,Hydro,118.03,117.69,129.12,122.91,130.73
+SVK,Slovakia,16.5,Hydro,73.11,55.75,63.33,52.24,55.8
+SVK,Slovakia,720,Hydro,2544.76,2165.08,2867.98,2171.01,2165.08
+SVK,Slovakia,25.5,Hydro,109.94,79.39,86.88,77.61,76.33
+SVK,Slovakia,31.5,Hydro,129.73,93.34,112.39,92.27,95.87
+SVK,Slovakia,15,Hydro,66.47,50.68,57.57,47.49,50.72
+SVK,Slovakia,25.5,Hydro,109.94,79.17,86.88,77.82,76.33
+SVK,Slovakia,45.06,Hydro,162.84,125.98,147.98,126.32,125.98
+SVK,Slovakia,24.75,Hydro,107.48,76.13,94.03,75.61,80.65
+SVK,Slovakia,18,Solar,25.22,27.38,26.7,26.34,25.66
+SVK,Slovakia,80,Gas,,,,,122.91
+SVK,Slovakia,38.4,Hydro,157.75,116.86,145.27,112.32,112.65
+SVK,Slovakia,198,Hydro,683.72,490.15,522.63,409.11,490.15
+SVK,Slovakia,43.2,Hydro,181.75,133.56,144.47,130.86,128.7
+SVK,Slovakia,430,Gas,,,,,660.67
+SVK,Slovakia,93.6,Hydro,378.55,278.04,334.66,274.88,285.56
+SVK,Slovakia,880,Nuclear,,,,,6805.78
+SVK,Slovakia,67.5,Hydro,272.99,200.51,241.42,198.23,205.93
+SVK,Slovakia,518,Coal,,,,,1187.64
+SVK,Slovakia,25.5,Hydro,94.15,69.33,81.78,69.52,69.33
+SVK,Slovakia,21.75,Hydro,69.78,61.42,72.74,55.84,60.32
+SVK,Slovakia,218,Gas,,,,,334.94
+SVK,Slovakia,55.2,Hydro,222.78,163.97,197.36,162.11,168.4
+SVK,Slovakia,60,Hydro,249.82,173.66,189.52,170.62,161.51
+SVK,Slovakia,38.4,Hydro,158.2,112.18,137.57,112.18,116.81
+SVK,Slovakia,16.5,Hydro,74.05,57.63,66.35,55.28,55.8
+SVK,Slovakia,880,Coal,,,,,2017.61
+TUN,Tunisia,4.8,Hydro,10.98,11.09,10.98,10.29,11.99
+TUN,Tunisia,486,Gas,,,,,2745.66
+TUN,Tunisia,185,Gas,,,,,1045.16
+TUN,Tunisia,1.2,Hydro,3.01,3.01,3.01,3.02,2.9
+TUN,Tunisia,236,Gas,,,,,1333.28
+TUN,Tunisia,1.2,Hydro,2.72,2.72,2.72,2.73,2.72
+TUN,Tunisia,415,Gas,,,,,2344.55
+TUN,Tunisia,22,Gas,,,,,124.28
+TUN,Tunisia,123,Gas,,,,,694.89
+TUN,Tunisia,470,Gas,,,,,2655.27
+TUN,Tunisia,1,Hydro,2.4,2.4,2.4,2.4,2.4
+TUN,Tunisia,68,Gas,,,,,384.16
+TUN,Tunisia,56,Gas,,,,,316.37
+TUN,Tunisia,44,Gas,,,,,248.57
+TUN,Tunisia,72,Wind,,204.17,218.87,186.33,182.52
+TUN,Tunisia,13,Hydro,20.44,22.64,20.86,20.49,20.44
+TUN,Tunisia,700,Gas,,,,,3954.66
+TUN,Tunisia,44,Gas,,,,,248.57
+TUN,Tunisia,70,Wind,,,,,128.28
+TUN,Tunisia,33,Hydro,48.58,51.98,48.58,40.59,47.41
+TUN,Tunisia,320,Gas,,,,,1807.84
+TUN,Tunisia,364,Gas,,,,,2056.42
+TUN,Tunisia,424,Gas,,,,,2395.39
+TUN,Tunisia,424,Gas,,,,,2395.39
+TUN,Tunisia,375,Gas,,,,,2118.56
+TUN,Tunisia,66,Gas,,,,,372.86
+TUN,Tunisia,34,Gas,,,,,192.08
+ZAF,South Africa,171,Gas,,,,,0
+ZAF,South Africa,82.5,Solar,198.14,205.65,227.36,203.42,227.24
+ZAF,South Africa,134.4,Wind,,,,,470.55
+ZAF,South Africa,1327,Oil,,,,,63.91
+ZAF,South Africa,10.65,Solar,,,25.92,21.89,25.07
+ZAF,South Africa,2352,Coal,,,,,13576.86
+ZAF,South Africa,10.3,Solar,,,20.72,19.33,20.32
+ZAF,South Africa,7,Hydro,13.22,12.63,12.75,13.55,13.51
+ZAF,South Africa,6.5,Waste,,,,,0
+ZAF,South Africa,50,Solar,,,,,137.06
+ZAF,South Africa,60,Solar,,,159.46,139.71,162.2
+ZAF,South Africa,1600,Coal,,,,,9235.96
+ZAF,South Africa,21,Wind,,,,71.43,76.06
+ZAF,South Africa,73.8,Wind,190.47,187.08,190.3,185.22,169.64
+ZAF,South Africa,138.6,Wind,,,398.49,434.64,390.02
+ZAF,South Africa,5.2,Wind,12.94,11.6,10.65,11.74,11.7
+ZAF,South Africa,27,Wind,,,84.16,86.14,79.03
+ZAF,South Africa,50,Solar,,,134.4,117.66,135.13
+ZAF,South Africa,9.7,Solar,,,21.77,20.36,21.99
+ZAF,South Africa,75,Solar,,,,,192.92
+ZAF,South Africa,48,Solar,109.91,116.92,131.29,118.3,129.6
+ZAF,South Africa,100,Wind,,,316.63,332.14,315.54
+ZAF,South Africa,1000,Hydro,2667.78,2570.24,1630.79,2622.54,1626.8
+ZAF,South Africa,75,Solar,,,175.71,154.33,182.12
+ZAF,South Africa,50,Solar,,,135.47,114.42,136.5
+ZAF,South Africa,2.22,Waste,,,,,0
+ZAF,South Africa,3600,Coal,,,,,20780.91
+ZAF,South Africa,2.2,Waste,,,,,0
+ZAF,South Africa,360,Hydro,902.02,1187.36,732.01,829.72,830.45
+ZAF,South Africa,138,Wind,,,,395.12,411.69
+ZAF,South Africa,740,Oil,,,,,35.63
+ZAF,South Africa,3.5,Biomass,,,,,
+ZAF,South Africa,61.5,Wind,,,,187.58,192.8
+ZAF,South Africa,10,Solar,21.18,20.8,21.95,20.43,19.36
+ZAF,South Africa,1190,Coal,,,,,6869.24
+ZAF,South Africa,2000,Coal,,,,,11544.95
+ZAF,South Africa,19,Solar,,44.79,51.01,47.81,51.01
+ZAF,South Africa,25.47,Waste,,,,,0
+ZAF,South Africa,66.6,Wind,,,219.03,214.22,212.54
+ZAF,South Africa,96,Solar,,,256.52,224.63,260.68
+ZAF,South Africa,138,Wind,,,396.77,420.01,388.33
+ZAF,South Africa,100,Solar,,,,237.98,263.23
+ZAF,South Africa,75,Solar,166.59,171.35,196.54,180.88,193.19
+ZAF,South Africa,50.4,Solar,111.92,114.75,134.08,121.71,131.87
+ZAF,South Africa,73.8,Wind,,,229.74,,173.53
+ZAF,South Africa,100,Solar,239.3,249.35,275.3,245.78,274.02
+ZAF,South Africa,100,Solar,239.3,249.08,275.16,245.24,274.02
+ZAF,South Africa,600,Coal,,,,,3463.48
+ZAF,South Africa,4116,Coal,,,,,23759.51
+ZAF,South Africa,50,Solar,,,,,124.45
+ZAF,South Africa,140,Wind,,,,,329.2
+ZAF,South Africa,30,Wind,,,80.47,88.46,85.78
+ZAF,South Africa,1800,Nuclear,,,,,13236.99
+ZAF,South Africa,1000,Coal,,,,,5772.47
+ZAF,South Africa,75,Solar,169.4,175.96,200.61,173.28,192.66
+ZAF,South Africa,11,Solar,,,27.83,23.83,25.51
+ZAF,South Africa,3000,Coal,,,,,17317.43
+ZAF,South Africa,794,Coal,,,,,4583.34
+ZAF,South Africa,75,Solar,,,200.4,175.49,203.66
+ZAF,South Africa,3708,Coal,,,,,21404.34
+ZAF,South Africa,75,Solar,,,200.74,161.46,201.8
+ZAF,South Africa,40,Solar,,,91.41,83.77,98.34
+ZAF,South Africa,140,Wind,,,,,329.2
+ZAF,South Africa,10.1,Biomass,,,,,
+ZAF,South Africa,100,Wind,,,,,235.14
+ZAF,South Africa,144,Wind,,,,,338.61
+ZAF,South Africa,4110,Coal,,,,,23724.88
+ZAF,South Africa,2,Waste,,,,,0
+ZAF,South Africa,3990,Coal,,,,,23032.18
+ZAF,South Africa,3600,Coal,,,,,20780.91
+ZAF,South Africa,9.7,Solar,20.57,21.4,21.71,21.44,21.48
+ZAF,South Africa,86,Solar,,,,,231.57
+ZAF,South Africa,12.57,Hydro,29.19,32.09,27.39,30.6,30.92
+ZAF,South Africa,80,Wind,,,,,277.03
+ZAF,South Africa,82.5,Solar,172.56,177.58,195.83,181.1,206.6
+ZAF,South Africa,400,Hydro,601.79,544.75,544.75,546.24,544.75
+ZAF,South Africa,4.2,Waste,,,,,0
+ZAF,South Africa,171,Gas,,,,,0
+ZAF,South Africa,180,Coal,,,,,1039.04
+ZAF,South Africa,19.9,Solar,47.65,49.9,53.91,49.04,55.22
+ZAF,South Africa,86,Solar,,,,,231.57
+ZAF,South Africa,82.5,Solar,,,,,140.56
+ZAF,South Africa,80,Wind,,,,247.36,290.86
+ZAF,South Africa,300,Coal,,,,,1731.74
+ZAF,South Africa,7,Solar,,15.23,15.95,15.7,15.88
+ZAF,South Africa,100,Wind,,,,299.51,320.2
+ZAF,South Africa,94.3,Solar,,,256.83,220.87,256.06
+ZAF,South Africa,5,Solar,9.87,10.24,11.05,9.89,10.11
+ZAF,South Africa,75,Solar,,,196.01,173.11,199.94
+ZAF,South Africa,75,Solar,,,,173.11,192.92
+ZAF,South Africa,28,Solar,66.64,68.29,77.58,68.22,77.4
+ZAF,South Africa,5,Solar,,,,10.12,9.81
+ZAF,South Africa,66,Solar,,,,,112.44
+ZAF,South Africa,44.19,Solar,,,106.39,87.1,100.12
+ZAF,South Africa,95,Wind,,,,,289.95
+ZAF,South Africa,3654,Coal,,,,,21092.63
+ZAF,South Africa,8.9,Solar,,,17.22,16.29,17.68
+ZAF,South Africa,27,Wind,,,84.05,87.33,92.18
+ZAF,South Africa,240,Hydro,583.03,761.05,469.69,534.78,535.32
+ZAF,South Africa,10.5,Solar,,,24.5,21.2,27.73
+ZAF,South Africa,23,Wind,,,,,83.09
+ZAF,South Africa,94,Wind,,,,333.07,370.77
+ZAF,South Africa,30,Solar,,,80.24,69.81,81.61
+ZAF,South Africa,100,Solar,227.14,233.3,266.57,230.76,256.46
